@@ -1,0 +1,460 @@
+{
+  "items": [
+    { "id": 1, "name": "猎刀" },
+    { "id": 2, "name": "劈斧" },
+    { "id": 3, "name": "消防斧" },
+    { "id": 4, "name": "消毒绷带" },
+    { "id": 5, "name": "短棍" },
+    { "id": 6, "name": "长棍" },
+    { "id": 7, "name": "麻布袋" },
+    { "id": 8, "name": "绳子" },
+    { "id": 9, "name": "粗布背包" },
+    { "id": 10, "name": "手" },
+    { "id": 11, "name": "布条" },
+    { "id": 12, "name": "皮衣" },
+    { "id": 13, "name": "针线包" },
+    { "id": 14, "name": "小石灰" },
+    { "id": 15, "name": "大石灰" },
+    { "id": 16, "name": "肥料" },
+    { "id": 17, "name": "小石头" },
+    { "id": 18, "name": "磨刀石" },
+    { "id": 19, "name": "钉子" },
+    { "id": 20, "name": "盒装钉子" },
+    { "id": 21, "name": "钳子" },
+    { "id": 22, "name": "金属网" },
+    { "id": 23, "name": "铁丝网" },
+    { "id": 24, "name": "纸" },
+    { "id": 25, "name": "生皮革" },
+    { "id": 26, "name": "狩猎包" },
+    { "id": 27, "name": "短斧" },
+    { "id": 28, "name": "中型帐篷" },
+    { "id": 29, "name": "汽车帐篷" },
+    { "id": 30, "name": "大帐篷" },
+    { "id": 31, "name": "鞣制皮革" },
+    { "id": 32, "name": "弩箭" },
+    { "id": 33, "name": "针" },
+    { "id": 34, "name": "刀具" },
+    { "id": 35, "name": "粗布条" },
+    { "id": 36, "name": "皮革修理包" },
+    { "id": 37, "name": "网" },
+    { "id": 38, "name": "鞣制皮革条" },
+    { "id": 39, "name": "大皮革" },
+    { "id": 40, "name": "小背包" },
+    { "id": 41, "name": "狩猎包" },
+    { "id": 42, "name": "突击包" },
+    { "id": 43, "name": "挎包" },
+    { "id": 44, "name": "越野包" },
+    { "id": 45, "name": "军用背包" },
+    { "id": 46, "name": "野战包" },
+    { "id": 47, "name": "野外营地打包工具" },
+    { "id": 48, "name": "皮革营地打包工具" },
+    { "id": 49, "name": "大皮革营地打包工具" },
+    { "id": 50, "name": "石头" },
+    { "id": 51, "name": "石刀" },
+    { "id": 52, "name": "原木" },
+    { "id": 53, "name": "棒球棍" },
+    { "id": 54, "name": "建造工具" },
+    { "id": 55, "name": "锯子" },
+    { "id": 56, "name": "撬棍" },
+    { "id": 57, "name": "钢管" },
+    { "id": 58, "name": "皮包" },
+    { "id": 59, "name": "任意帐篷" },
+    { "id": 60, "name": "隐蔽网" },
+    { "id": 61, "name": "削尖的长棍" },
+    { "id": 62, "name": "金属网板" },
+    { "id": 63, "name": "锤子" }
+  ],
+  "table": [
+    {
+      "input": [
+        { "id": 11, "count": 6 },
+        { "id": 11, "count": 6 }
+      ],
+      "output": [{ "id": 8, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 34, "count": 1 },
+        { "id": 12, "count": 1 }
+      ],
+      "output": [
+        { "id": 11, "count": 6 },
+        { "id": 7, "count": 1 }
+      ]
+    },
+    {
+      "input": [
+        { "id": 16, "count": 1 },
+        { "id": 16, "count": 1 }
+      ],
+      "output": [{ "id": 11, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 11, "count": 4 },
+        { "id": 13, "count": 1 }
+      ],
+      "output": [{ "id": 4, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 7, "count": 1 },
+        { "id": 16, "count": 1 }
+      ],
+      "output": [{ "id": 14, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 14, "count": 1 },
+        { "id": 16, "count": 1 }
+      ],
+      "output": [{ "id": 15, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 17, "count": 1 },
+        { "id": 18, "count": 1 }
+      ],
+      "output": [{ "id": 19, "count": 3 }]
+    },
+    {
+      "input": [
+        { "id": 22, "count": 1 },
+        { "id": 21, "count": 1 }
+      ],
+      "output": [{ "id": 19, "count": 24 }]
+    },
+    {
+      "input": [
+        { "id": 23, "count": 1 },
+        { "id": 21, "count": 1 }
+      ],
+      "output": [{ "id": 19, "count": 24 }]
+    },
+    {
+      "input": [
+        { "id": 24, "count": 1 },
+        { "id": 19, "count": 70 }
+      ],
+      "output": [{ "id": 20, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 25, "count": 1 },
+        { "id": 14, "count": 1 }
+      ],
+      "output": [{ "id": 31, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 25, "count": 1 },
+        { "id": 15, "count": 1 }
+      ],
+      "output": [{ "id": 31, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 58, "count": 1 },
+        { "id": 34, "count": 1 }
+      ],
+      "output": [
+        { "id": 31, "count": 1 },
+        { "id": 11, "count": 3 }
+      ]
+    },
+    {
+      "input": [
+        { "id": 59, "count": 1 },
+        { "id": 34, "count": 1 }
+      ],
+      "output": [
+        { "id": 31, "count": 2 },
+        { "id": 11, "count": 6 }
+      ]
+    },
+    {
+      "input": [
+        { "id": 12, "count": 1 },
+        { "id": 34, "count": 1 }
+      ],
+      "output": [
+        { "id": 7, "count": 1 },
+        { "id": 11, "count": 6 }
+      ]
+    },
+    {
+      "input": [
+        { "id": 5, "count": 1 },
+        { "id": 34, "count": 1 }
+      ],
+      "output": [{ "id": 33, "count": 1 }]
+    },
+
+    {
+      "input": [
+        { "id": 8, "count": 1 },
+        { "id": 33, "count": 1 }
+      ],
+      "output": [{ "id": 13, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 11, "count": 6 },
+        { "id": 13, "count": 1 }
+      ],
+      "output": [{ "id": 7, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 35, "count": 3 },
+        { "id": 13, "count": 1 }
+      ],
+      "output": [{ "id": 7, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 31, "count": 1 },
+        { "id": 7, "count": 1 }
+      ],
+      "output": [{ "id": 36, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 11, "count": 6 },
+        { "id": 34, "count": 1 }
+      ],
+      "output": [{ "id": 37, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 37, "count": 4 },
+        { "id": 16, "count": 1 }
+      ],
+      "output": [{ "id": 60, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 31, "count": 1 },
+        { "id": 34, "count": 1 }
+      ],
+      "output": [{ "id": 38, "count": 3 }]
+    },
+    {
+      "input": [
+        { "id": 38, "count": 1 },
+        { "id": 31, "count": 1 }
+      ],
+      "output": [{ "id": 39, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 7, "count": 1 },
+        { "id": 8, "count": 1 }
+      ],
+      "output": [{ "id": 9, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 25, "count": 1 },
+        { "id": 8, "count": 1 }
+      ],
+      "output": [{ "id": 9, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 9, "count": 1 },
+        { "id": 5, "count": 1 }
+      ],
+      "output": [{ "id": 40, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 40, "count": 1 },
+        { "id": 36, "count": 1 }
+      ],
+      "output": [{ "id": 41, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 7, "count": 1 },
+        { "id": 36, "count": 1 }
+      ],
+      "output": [{ "id": 41, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 9, "count": 1 },
+        { "id": 36, "count": 1 }
+      ],
+      "output": [{ "id": 43, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 40, "count": 1 },
+        { "id": 36, "count": 1 }
+      ],
+      "output": [{ "id": 42, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 42, "count": 1 },
+        { "id": 36, "count": 1 }
+      ],
+      "output": [{ "id": 44, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 44, "count": 1 },
+        { "id": 36, "count": 1 }
+      ],
+      "output": [{ "id": 45, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 41, "count": 1 },
+        { "id": 36, "count": 1 }
+      ],
+      "output": [{ "id": 45, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 45, "count": 1 },
+        { "id": 36, "count": 1 }
+      ],
+      "output": [{ "id": 46, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 31, "count": 4 },
+        { "id": 5, "count": 3 }
+      ],
+      "output": [{ "id": 28, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 31, "count": 8 },
+        { "id": 5, "count": 5 }
+      ],
+      "output": [{ "id": 30, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 30, "count": 1 },
+        { "id": 30, "count": 1 }
+      ],
+      "output": [{ "id": 29, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 5, "count": 1 },
+        { "id": 61, "count": 1 }
+      ],
+      "output": [{ "id": 47, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 5, "count": 5 },
+        { "id": 7, "count": 1 }
+      ],
+      "output": [{ "id": 48, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 48, "count": 1 },
+        { "id": 48, "count": 1 }
+      ],
+      "output": [{ "id": 49, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 50, "count": 1 },
+        { "id": 50, "count": 1 }
+      ],
+      "output": [{ "id": 17, "count": 4 }]
+    },
+    {
+      "input": [
+        { "id": 17, "count": 1 },
+        { "id": 17, "count": 1 }
+      ],
+      "output": [{ "id": 51, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 51, "count": 1 },
+        { "id": 51, "count": 1 }
+      ],
+      "output": [{ "id": 18, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 52, "count": 1 },
+        { "id": 3, "count": 1 }
+      ],
+      "output": [{ "id": 53, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 52, "count": 1 },
+        { "id": 2, "count": 1 }
+      ],
+      "output": [{ "id": 53, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 50, "count": 1 },
+        { "id": 53, "count": 1 }
+      ],
+      "output": [{ "id": 54, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 62, "count": 1 },
+        { "id": 56, "count": 1 }
+      ],
+      "output": [{ "id": 23, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 62, "count": 1 },
+        { "id": 55, "count": 1 }
+      ],
+      "output": [{ "id": 23, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 62, "count": 1 },
+        { "id": 21, "count": 1 }
+      ],
+      "output": [{ "id": 23, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 5, "count": 1 },
+        { "id": 23, "count": 1 }
+      ],
+      "output": [{ "id": 55, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 5, "count": 1 },
+        { "id": 22, "count": 1 }
+      ],
+      "output": [{ "id": 55, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 57, "count": 1 },
+        { "id": 23, "count": 1 }
+      ],
+      "output": [{ "id": 21, "count": 1 }]
+    },
+    {
+      "input": [
+        { "id": 57, "count": 1 },
+        { "id": 63, "count": 1 }
+      ],
+      "output": [{ "id": 56, "count": 1 }]
+    }
+  ]
+}
