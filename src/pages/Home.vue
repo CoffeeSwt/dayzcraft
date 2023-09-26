@@ -171,6 +171,7 @@
             tabindex="0"
             class="btn btn-sm mx-2"
             data-set-theme="wireframe"
+            @click="openPage('https://github.com/CoffeeSwt/dayzcraft')"
           >
             <svg
               width="21"
@@ -286,7 +287,9 @@ const searchText = ref(null);
 onMounted(() => {
   themeChange(false);
 });
-
+const openPage = (url: string) => {
+  window.open(url, "_blank");
+};
 onMounted(() => {});
 </script>
 <style scoped></style>
