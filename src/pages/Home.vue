@@ -213,15 +213,14 @@
             v-model="searchText"
             placeholder="请输入相关物"
             search-button
-            @press-enter="search"
-            @search="search"
             @clear="clearSearch"
+            @change="search"
             allow-clear
           />
         </div>
       </div>
     </header>
-    <main class="w-4/5 mx-auto pt-2">
+    <main class="w-4/5 mx-auto py-2 pb-16">
       <div class="h-28"></div>
       <a-space direction="vertical" fill>
         <template v-for="(item, index) in res">
@@ -259,11 +258,17 @@ import { onMounted, ref, Ref, getCurrentInstance } from "vue";
 import craftMap from "@/assets/craftMap.json";
 const search = () => {
   const str = searchText.value;
+  if (!str) {
+    currentInstance.$message.info("已重置合成表");
+    res.value = craftMap.table;
+    return;
+  }
   const item = findItem(craftMap.items, str!);
   if (!item) {
     currentInstance.$message.info("未找到该物品");
     return;
   }
+  currentInstance.$message.info("查询成功");
   const id = item.id;
   res.value = craftMap.table.filter((item) => {
     if (item.input.find((i) => i.id == id)) return true;
@@ -290,6 +295,7 @@ onMounted(() => {
 const openPage = (url: string) => {
   window.open(url, "_blank");
 };
+
 onMounted(() => {});
 </script>
 <style scoped></style>
