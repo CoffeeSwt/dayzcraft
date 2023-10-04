@@ -1,0 +1,28 @@
+{
+  "mods": [
+    {
+      "name": "CF",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036",
+      "active": true,
+      "description": "这是一个框架模组，负责其他模组的加载",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "CF",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036",
+      "active": true,
+      "description": "这是一个框架模组，负责其他模组的加载",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "CF",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036",
+      "active": true,
+      "description": "这是一个框架模组，负责其他模组的加载",
+      "tips": "",
+      "images": []
+    }
+  ]
+}

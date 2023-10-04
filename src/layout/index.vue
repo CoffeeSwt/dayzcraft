@@ -10,7 +10,7 @@
       <div class="drawer-content h-screen flex flex-col overflow-hidden">
         <!-- Page content here -->
         <header
-          class="navbar fixed z-10 h-16 box-border bg-base-100 flex-shrink-0 border-b border-base-300"
+          class="navbar fixed z-20 h-16 box-border bg-base-100 flex-shrink-0 border-b border-base-300"
         >
           <div class="navbar-start">
             <label for="my-drawer" class="btn btn-sm drawer-button btn-ghost"
@@ -240,9 +240,9 @@
         </div>
         <footer></footer>
       </div>
-      <div class="drawer-side">
-        <label for="my-drawer" class="drawer-overlay"></label>
-        <ul class="menu p-0 w-56 sm:w-80 h-full bg-base-100 text-base-content">
+      <div class="drawer-side z-10">
+        <label for="my-drawer" class="drawer-overlay z-10"></label>
+        <ul class="menu p-0 w-56 sm:w-80 h-full bg-base-100 text-base-content z-20">
           <!-- Sidebar content here -->
           <div class="h-16"></div>
           <li
