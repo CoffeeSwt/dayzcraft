@@ -18,6 +18,7 @@
               </div>
               <div class="mt-1 text-xs">{{ item.description }}</div>
             </div>
+
             <div class="collapse-content">
               <MdPreview
                 :modelValue="item.info"
@@ -41,6 +42,9 @@ const getModInfo = async (modName: string) => {
   const response = await fetch(`/mods/${modName}.md`);
   const text = await response.text();
   return text;
+};
+const openPage = (url: string) => {
+  window.open(url, "_blank");
 };
 const mods: Ref<any> = ref(modInfo.mods.map((mod) => mod));
 
