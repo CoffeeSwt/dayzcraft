@@ -20,10 +20,9 @@
             </div>
 
             <div class="collapse-content">
-              <MdPreview
-                :modelValue="item.info"
-                class="bg-base-200"
-              ></MdPreview>
+              <MdPreview :modelValue="item.info" class="bg-base-200">
+              </MdPreview>
+              <a class="link" @click="openPage(item.link)">{{ item.link }}</a>
             </div>
           </div>
         </template>
