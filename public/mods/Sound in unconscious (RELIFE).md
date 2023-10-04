@@ -1,0 +1,1 @@
+A simple mod that will add a heartbeat sound to the unconscious. Any sound can be set. Repackaging is allowed, do not forget to credit the author.

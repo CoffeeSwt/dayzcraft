@@ -16,6 +16,4 @@ Link to COM dev branch: https://github.com/Arkensor/DayZCommunityOfflineMode
 
 BuilderItems is built into DayZ Expansion. Do not load this mod if you're using Expansion!
 
-
-
 Anyone who wants to repack this mod into their server mod, I give you full permission to do so, as this is such a basic mod. Can be used on monetized servers as well.
