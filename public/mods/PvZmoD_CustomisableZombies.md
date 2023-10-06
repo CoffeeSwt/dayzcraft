@@ -1,99 +1,77 @@
-Key Features
-- Customisable Health, Resistance, Movements, Strength and Vision Distance for the different zombies categorie.
-- Each characteristics can have a different value for day and night time.
-- All characteristics are customisable without mod repack needed, no server restart needed
-(the admin have just to press numpad4 ingame to apply changes made in xml files).
-- Features well documented.
+主要特征
+- 不同僵尸类别的可定制生命值、抵抗力、移动、力量和视野距离。
+- 每个特征对于白天和夜间时间都可以有不同的值。
+- 所有特性均可定制，无需重新打包模组，无需重启服务器
+（管理员只需在游戏中按 numpad4 即可应用在 xml 文件中所做的更改）。
+- 功能有据可查。
 
-----------------------------------------------------------------------------------------------------
+-------------------------------------------------- --------------------------------------------------
 
-Detailed customisable characteristics
---- Health points :
----------- Day / Night time
+详细的可定制特性
+---健康要点：
+---------- 白天/夜间时间
 
---- Resistance to :
----------- Bullets
----------- Melee Weapons
----------- Heavy Attacks
----------- Vehicles
----------- Explosions
----------- HeadShots
----------- Toxic Gas
----------- Backstab
----------- Day / Night time
+--- 抵抗：
+---------- 子弹
+---------- 近战武器
+---------- 重击
+ -  -  -  -  -  汽车
+---------- 爆炸
+---------- 头像
+---------- 有毒气体
+---------- 背刺
+---------- 白天/夜间时间
 
---- Movements :
----------- Minimum speed
----------- Maximum speed
----------- Chance to spawn crawling
----------- Make zombies never crawl
----------- Day / Night time
+---动作：
+---------- 最低速度
+ -  -  -  -  -  最大速度
+---------- 有机会爬行生成
+---------- 让僵尸永远不会爬行
+---------- 白天/夜间时间
 
---- Strength :
----------- Health damage
----------- Shock damage
----------- Stamina damage
----------- Blood damage
----------- Bleeding chance
----------- All of that with different values for Blocked / Unblocked attacks
----------- Crawling zombies spoil shoes.
----------- Day / Night time
+ - - 力量 ：
+---------- 健康损害
+---------- 冲击损伤
+---------- 体力伤害
+---------- 血液损伤
+---------- 出血机会
+---------- 所有这些都具有不同的阻止/未阻止攻击值
+---------- 爬行的僵尸会弄坏鞋子。
+---------- 白天/夜间时间
 
---- Vision Distance :
----------- If player have bloody hands or not
----------- If player wear a special mask or not
----------- Day / Night time
+--- 视距：
+---------- 玩家是否双手沾满鲜血
+---------- 玩家是否佩戴特殊口罩
+---------- 白天/夜间时间
 
-----------------------------------------------------------------------------------------------------
+-------------------------------------------------- --------------------------------------------------
 
-Side features
-Day/Night Time :
-You can modify the beginning and the end hour of the night (default vanilla values are not very consistent in my opinion). This only affect the time when characteristics switch from day to night (and night to day) it does not affect server speed day/night times.
+侧面特征
+白天/夜间时间：
+您可以修改夜晚的开始和结束时间（我认为默认的普通值不太一致）。 这仅影响特性从白天切换到夜间（以及夜间切换到白天）的时间，不会影响白天/夜间的服务器速度。
 
-Fist fighting :
-It is very easy to fight zombies with fist so I added a little damage and a chance to bleed during fist fighting (not to death of course) when player fist fight without glove and gloves degradation when player does wear gloves. This option is of course fully customisable and deactivable.
+拳头格斗：
+用拳头对抗僵尸非常容易，所以当玩家不戴手套进行拳头战斗时，我在拳头战斗中增加了一点伤害和流血的机会（当然不是死亡），而当玩家戴手套时，手套会退化。 这个选项当然是完全可定制和禁用的。
 
-Modifications in cpp files :
-(can't be modified without repacking)
-- Zombies does not attack the animals (except for bears and wolves which relationships are customisable).
-- Zombies inventory size increased.
-- Zombies mask and eyes slots activated.
-- Zombies are less easily attracted by the impact of bullet and the shots with suppressor
-(and the durability of the suppressors have been increased).
+cpp文件中的修改：
+（不重新打包就无法修改）
+- 僵尸不会攻击动物（熊和狼除外，它们的关系是可定制的）。
+- 僵尸库存规模增加。
+- 僵尸面具和眼睛槽被激活。
+- 僵尸不易被子弹的冲击和带有消音器的射击所吸引
+（并且抑制器的耐用性已增加）。
 
-Other :
-- Zombies can break closed doors that are not locked with a lockpick.
-- Crushing zombies with cars damage vehicle radiator.
-- Zombies can hit the stopped cars.
-- Crossbow oneshot if zombies are shot in the head.
-- Helmets protect zombies from headshots.
-- Player's heavy attacks can hit many zombies at the same time.
-- Zombies can hit players on obstacle like cars (and sometime through buildings windows)
-- Zombies can throw stones on player who are on obstacle.
-- Bear traps make zombies crawling if they are not killed by it.
-- WW are friendly.
-- This mod can be use to modify zombies from another mod (but you have to test, it doesn't work for some creatures, Look at the list here).
-- Each key feature can easily be deactivated independently.
-- These is « global factors » to easily modify main characteristics for all zombies at once.
-
-----------------------------------------------------------------------------------------------------
-
-Useful Links
-Installation Instructions.
-Known Bugs.
-Compatibility with the other mods.
-Patch notes
-
-----------------------------------------------------------------------------------------------------
-
-Permissions
-You CAN use, modify, repack the mod as you need.
-(do not simply redistribute it with another name and don't forget credits)
-
-My other mods:
-PvZmoD Spawn System
-PvZmoD The Dark Horde
-Longer Sunrise And Sunset
-Pumpkin On Zombies
-Christmas Event Enhanced
-Complete Vehicles Spawner
+其他 ：
+- 僵尸可以打破没有用撬锁锁上的紧闭的门。
+- 用汽车碾压僵尸会损坏车辆散热器。
+- 僵尸可以攻击停下来的汽车。
+- 如果僵尸头部中弹，则用十字弓一击。
+- 头盔可以保护僵尸免受爆头伤害。
+- 玩家的重击可以同时击中许多僵尸。
+- 僵尸可以攻击汽车等障碍物上的玩家（有时还可以穿过建筑物的窗户）
+- 僵尸可以向障碍物上的玩家扔石头。
+- 如果僵尸没有被熊陷阱杀死，它们就会爬行。
+- WW很友好。
+- 这个mod可以用来修改另一个mod中的僵尸（但你必须测试，它对某些生物不起作用，看看这里的列表）。
+- 每个关键功能都可以轻松地独立停用。
+- 这些是“全局因素”，可以轻松地同时修改所有僵尸的主要特征。

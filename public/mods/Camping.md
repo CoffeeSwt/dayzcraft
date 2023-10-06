@@ -1,27 +1,11 @@
-Camping gear
+野营装备
 
-This mod adds a variety of diffent colored custom tents and sleeping bags to the game. These items can be deployed and interacted with and provide some storage aswell.
-Inside the mod files you can find a types.xml to include these items in the spawning list.
+该模组在游戏中添加了各种不同颜色的定制帐篷和睡袋。 这些项目可以部署、交互，还可以提供一些存储空间。
 
-Compatible with 1.15
+修理帐篷和睡袋
 
-Please report any bugs in the discussions. Read the pinned post for the format.
+帐篷和睡袋可以使用胶带和针线包来修理。 只需将胶带/缝纫工具拿在手中，就会出现修复该物品的选项。
+损坏的帐篷和袋子可能会失去折叠/展开的能力，请确保您的物品已修复。
 
-
-Repairing tents and sleeping bags
-
-The tents and sleeping bags can be repaired by using duct tape & sewing kits. Simply hold duct tape / sewing kit in your hands and there will be an option to repair the item.
-Damaged tents and bags can lose the ability to be folded / deployed, make sure that your item is repaired.
-
-
-An override for the tent and sleeping bag storage can be found here:
+帐篷和睡袋存储的覆盖可以在这里找到：
 https://steamcommunity.com/sharedfiles/filedetails/?id=2621367372
-
-
-Special thanks to Aeryes for providing the models and textures for these items.
-
-Repacking the mod is allowed, but I would rather have you use this mod in a collection.
-If you have repacked this mod into your own, then please put the link to your mod in the comments and consider adding credits.
-
-
-If you like this mod, please:

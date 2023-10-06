@@ -1,1 +1,1 @@
-A simple mod that will add a heartbeat sound to the unconscious. Any sound can be set. Repackaging is allowed, do not forget to credit the author.
+一个简单的模组，可以为无意识添加心跳声。 可以设置任何声音。 允许重新包装，不要忘记注明作者。

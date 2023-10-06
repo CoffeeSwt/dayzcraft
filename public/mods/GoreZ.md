@@ -1,7 +1,7 @@
-This mod adds blood particleeffects for both players and zombies including:
-hit particles
-bloodpuddles
-wallsplatter
-flies on dead bodies
-includes @BleedTrail.
-Bullet holes in walls. (removed)
+该模组为玩家和僵尸添加了血液粒子效果，包括：
+击中粒子
+血坑
+墙板
+苍蝇在尸体上
+包括@BleedTrail。
+墙上的弹孔。 （已删除）

@@ -1,77 +1,77 @@
-What is it?
-The following mod enables players to craft leather items such as, backpacks, vests, shoes, pants, belts, knife sheaths.
-Reintroducing the mechanics from DayZ Alpha but improved, the mod allows you to tan animal pelt using the barrel as a container, timed actions, with configured amounts you yield tanned leather that can be used to craft leather items!
-The mod also introduces crafting recipes to color weapons and certain melee such as firefighter axe. Along with ability to color T-Shirts to custom colors that persist with your characters save.
+它是什么？
+以下模组使玩家能够制作皮革物品，例如背包、背心、鞋子、裤子、腰带、刀套。
+重新引入 DayZ Alpha 的机制并进行了改进，该 mod 允许您使用桶作为容器来鞣制动物毛皮，定时操作，根据配置的数量，您可以产出可用于制作皮革制品的鞣制皮革！
+该模组还引入了为武器和某些近战武器（例如消防斧）着色的制作配方。 还能够将 T 恤涂成自定义颜色，并与您的角色保存保持一致。
 
-Tanning:
-Using a barrel, fill it up with at least 25,000ml of water and place your animal pelt (as many as you have) and attach a bag of garden lime in the appropriate slot, start the crafting action by looking at the barrel. The yield will be based on the type of animal pelt as shown in the table below.
+晒黑：
+使用桶，装满至少 25,000 毫升的水，然后放置动物毛皮（尽可能多），并将一袋花园石灰放入适当的槽中，通过观察桶开始制作动作。 产量将取决于动物毛皮的类型，如下表所示。
 
-Pelt Type	Yield	Crafting Time Per Pelt (sec)	Water Consumption (ml)
-Wildboar	6	22.5	2200.0
-Cow	12	42.5	1200.0
-Pig	6	25	850.0
-Deer	8	37.5	2250.0
-Goat	4	22.5	1850.0
-Bear	10	62.5	8000.0
-Wolf	6	22.5	4000.0
-Sheep	4	25	3800.0
-Rabbit	1	7.5	450.0
-Mouflon	10	7.5	6500.0
-Fox	2	7.5	1650.0
+毛皮类型 产量 每毛皮制作时间（秒） 耗水量（毫升）
+野猪 6 22.5 2200.0
+牛 12 42.5 1200.0
+猪 6 25 850.0
+鹿8 37.5 2250.0
+山羊 4 22.5 1850.0
+熊 10 62.5 8000.0
+狼6 22.5 4000.0
+羊 4 25 3800.0
+兔子 1 7.5 450.0
+欧洲盘羊 10 7.5 6500.0
+狐狸2 7.5 1650.0
 
-Dyeing:
-Using a barrel, fill it up with at least 25,000ml of water. Add your berries fruits you can find by searching bushes. Appropriate slots on the barrel are indicated, the quantity of each fruit will alter the color value for example; Canina berry at 50% or less quantity will alter the final color outcome of your dye. Alter it based on your needs. RGB (Red Blue Green) Plant material for green, Canina & Sambucus berry for red and blue. Color is indicated before you start the action on your HUD target action tooltip. You can color white T-Shirts and Armbands at the same time, but first you must bleach them using Disinfected Spray also using the barrel. You can color items black by using Nails, attach them in the nail slot. If certain actions don't come up, you need to de-attach other attachments from the barrel, each section of crafting is indicated in the inventory UI attachments of the barrel.
+染色：
+使用桶，装满至少 25,000 毫升的水。 添加你可以通过搜索灌木丛找到的浆果。 桶上有适当的槽位，例如每种水果的数量会改变颜色值； 50% 或更少的犬浆果数量会改变染料的最终颜色结果。 根据您的需要更改它。 RGB（红蓝绿）植物材料为绿色，Canina 和接骨木浆果为红色和蓝色。 在您开始 HUD 目标操作工具提示上的操作之前，会显示颜色。 您可以同时给白色 T 恤和臂章上色，但首先必须使用消毒喷雾和桶对它们进行漂白。 您可以使用钉子将物品涂成黑色，然后将它们固定在钉子槽中。 如果某些操作没有出现，您需要从桶上卸下其他附件，每个制作部分都在桶的库存 UI 附件中指示。
 
-Bleaching:
-Using a barrel, fill it up with at least 25,000ml of water. Attach your Disinfectant Spray to the barrel, add your T-Shirts and or armbands to bleach them white. Both work at the same time.
+漂：
+使用桶，装满至少 25,000 毫升的水。 将消毒喷雾装在桶上，加上 T 恤和/或臂章，将其漂白。 两者同时工作。
 
 
-Crafting Fertilizer:
-Using a barrel, fill it up with at least 25,000ml of water. Attach animal guts & plant material into the appropriate slots, start the action by closing the barrel. This will craft you makeshift fertilizer / garden lime.
+制作肥料：
+使用桶，装满至少 25,000 毫升的水。 将动物内脏和植物材料放入适当的槽中，关闭桶即可开始操作。 这将为你制作临时肥料/花园石灰。
 
-Class-Names:
-LeatherGloves_Natural
-LeatherGloves_Beige
-LeatherGloves_Black
-LeatherGloves_Brown
+类名：
+皮革手套_自然色
+皮手套_米色
+皮手套_黑色
+皮革手套_棕色
 
-LeatherHat_Natural
-LeatherHat_Beige
-LeatherHat_Black
-LeatherHat_Brown
+皮帽_自然色
+皮帽_米色
+皮帽_黑色
+皮帽_棕色
 
-LeatherPants_Natural
-LeatherPants_Beige
-LeatherPants_Black
-LeatherPants_Brown
+皮裤_自然色
+皮裤_米色
+皮裤_黑色
+皮裤_棕色
 
-LeatherShoes_Natural
-LeatherShoes_Beige
-LeatherShoes_Black
-LeatherShoes_Brown
+皮鞋_自然色
+皮鞋_米色
+皮鞋_黑色
+皮鞋_棕色
 
-LeatherJacket_Natural
-LeatherJacket_Beige
-LeatherJacket_Black
-LeatherJacket_Brown
+皮夹克_自然色
+皮夹克_米色
+皮夹克_黑色
+皮夹克_棕色
 
-LeatherStorageVest_Natural
-LeatherStorageVest_Beige
-LeatherStorageVest_Black
-LeatherStorageVest_Brown
+皮革储物背心_自然色
+皮革收纳背心_米色
+皮革收纳背心_黑色
+皮革储物背心_棕色
 
-LeatherSack_Natural
-LeatherSack_Beige
-LeatherSack_Black
-LeatherSack_Brown
+皮革袋_自然色
+皮袋_米色
+皮袋_黑色
+皮袋_棕色
 
-LeatherBelt_Natural
-LeatherBelt_Beige
-LeatherBelt_Black
-LeatherBelt_Brown
+皮革腰带_自然色
+皮带_米色
+皮革腰带_黑色
+皮革腰带_棕色
 
-OSDLeatherKnifeSheath
-TannedLeather
+OSD皮革刀鞘
+鞣制皮革
 
-SprayCan_Black
-SprayCan_Green
+喷雾罐_黑色
+喷雾罐_绿色

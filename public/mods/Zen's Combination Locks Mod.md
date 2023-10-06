@@ -1,42 +1,32 @@
-What Is This?
+这是什么？
 
-This mod overhauls how combination locks work in DayZ. It's designed to enhance the vanilla experience and is best suited for lightly modded servers, although it works with most popular basebuilding mods.
+该模组彻底改变了 DayZ 中密码锁的工作方式。 它旨在增强原版体验，最适合轻度改装的服务器，尽管它适用于最流行的基地建设模组。
 
-Combination locks will now remember the players who enter the code - much like the Code Lock mod. You only need to enter the code once, then the door will open for you without needing to enter the code again.
+密码锁现在会记住输入密码的玩家 - 很像密码锁模组。 您只需输入一次密码，即可为您开门，无需再次输入密码。
 
-There are two lock-opening options the server can choose from: instant open, and a slow open.
+服务器可以选择两种开锁选项：即时开锁和慢速开锁。
 
-Instant open works like the Code Lock mod - press F and the door/gate will open instantly.
+即时打开的工作原理类似于密码锁模块 - 按 F，门/大门将立即打开。
 
-The slow option simulates entering the code - so you need to cycle through a few "pretend" combination dial actions before the door will open (for a more authentic hardcore DayZ experience). Servers can adjust how many cycles are required, by default it's set to 1 cycle per digit on the lock.
+慢速选项模拟输入代码 - 因此您需要在门打开之前循环执行一些“假装”组合拨号操作（以获得更真实的硬核 DayZ 体验）。 服务器可以调整所需的周期数，默认情况下，锁上的每个数字设置为 1 个周期。
 
-This mod also includes a few other optional features, such as displaying the code on the screen while dialing, interacting with locks & gates from anywhere on the object, it adds several new combination locks (with up to 9 digits), and a new raiding option using a Bolt Cutter tool to break the locks. These features can be turned on or off based on the server config.
+该模组还包括一些其他可选功能，例如拨号时在屏幕上显示代码、从对象上的任何位置与锁和门交互、它添加了几个新的组合锁（最多 9 位数字）以及新的突袭 选项使用断线钳工具来打破锁。 这些功能可以根据服务器配置打开或关闭。
 
-Here is a video explaining the core features of the mod as at the time of release:
+以下视频解释了该模组发布时的核心功能：
 
 https://youtu.be/fhJb1UWMCeI
 
-I also included a stringtable so translations should work for all languages (although some translations might be inaccurate as I used an automatic translation tool).
+我还包含了一个字符串表，因此翻译应该适用于所有语言（尽管有些翻译可能不准确，因为我使用了自动翻译工具）。
 
-Please report any bugs or mistranslations and I'll fix them ASAP - or feel free to fix them yourself and repack, it's open source (more info below).
+请报告任何错误或误译，我会尽快修复它们 - 或者您可以自行修复并重新打包，它是开源的（更多信息如下）。
 
-Note: This mod may conflict with other mods that either modify combination lock behaviour or fence behaviour (especially base-building mods). I can make no guarantees for compatibility with other mods and don't have time to make it work with them all.
+注意：此模组可能与其他修改组合锁行为或栅栏行为的模组（尤其是基地建设模组）发生冲突。 我无法保证与其他模组的兼容性，也没有时间让它与所有模组兼容。
 
-Known Compatibility:
-- CodeLock: Seems fully compatible.
-- BuildingFortifications: Seems fully compatible.
-- EvenMoreDoors: Seems fully compatible.
-- BaseBuildingPlus: Is 99% compatible - Manage Lock action doesn't work, can't figure out how to fix it yet as #ifdef BBP doesn't work for me. But this doesn't break my mod, it's just one feature that doesn't work properly.
+已知兼容性：
+- CodeLock：似乎完全兼容。
+- BuildingFortifications：似乎完全兼容。
+- EvenMoreDoors：似乎完全兼容。
+- BaseBuildingPlus：99% 兼容 - 管理锁定操作不起作用，无法弄清楚如何修复它，因为 #ifdef BBP 对我不起作用。 但这并没有破坏我的模组，它只是一个无法正常工作的功能。
 
-Known Incompatibility/Issues:
-- Expansion: Will likely have issues - haven't done any testing on it. Given the complexity of that mod I probably won't try unless it's a popular request, as most servers run code locks with Exp anyway.
-
-Installation Instructions:
-
-Install this mod like any other mod - copy it into your server folder and add it to your mods list. It must be run on both server and client. Make sure to copy the .bikey into your server keys.
-
-Repack & Source Code:
-
-You can repack this mod if you like, and do anything else you want with it for that matter. Just keep in mind my future updates won't be applied so make sure to check back for new versions if you notice any bugs. The source code is on my GitHub at www.zenarchist.io
-
-Enjoy!
+已知的不兼容性/问题：
+- 扩展：可能会出现问题 - 尚未对其进行任何测试。 考虑到该 mod 的复杂性，我可能不会尝试，除非它是一个受欢迎的请求，因为大多数服务器无论如何都使用 Exp 运行代码锁。

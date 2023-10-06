@@ -1,24 +1,19 @@
-Its a simple match. What does it do?
 
-It enables you to get a single match from a matchbox, normally a matchbox contains 100 so you could get 100 matches ( I reduced the max amount to 50).
+它使您能够从火柴盒中获取单个匹配项，通常一个火柴盒包含 100 个匹配项，因此您可以获得 100 个匹配项（我将最大数量减少到 50 个）。
 
-Doing so will drop the single match on the floor and reduce the remaining pieces in the matchbox by 1. The single match can be ignited by any item that can ignite stuff.
+这样做会使单根火柴掉落在地板上，并使火柴盒中的剩余碎片减少 1 颗。单根火柴可以被任何可以点燃东西的物品点燃。
 
-The single match burns about 30 secs. It provides some light and can be used to ignite items.
+单根火柴燃烧约30秒。 它提供一些光，可用于点燃物品。
 
-Afterwards its ruined and can´t be re-ignited. While burning you can´t put in into your inventory.
+之后它就被毁掉了，无法重新点燃。 燃烧时，您无法放入库存中。
 
-Thats only possible when not burning - when it hasn´t been ignited yet or when its ruined. You can only ignite items if the match is burning.
+这只有在不燃烧时才有可能 - 当它尚未被点燃或当它被毁坏时。 仅当火柴正在燃烧时您才能点燃物品。
 
-This adds realism and enables for fast light sources and firestarter options.
+这增加了真实感并支持快速光源和点火器选项。
 
 
-Added a candle that can be ignited. The candle burns for 30 mins. The candle can be placed.
+添加了可以点燃的蜡烛。 蜡烛燃烧 30 分钟。 可以放置蜡烛。
 
-You can also blow out the match and the candle, the match can´t be re-ignited, the candle can.
+您也可以吹灭火柴和蜡烛，火柴无法重新点燃，而蜡烛可以。
 
-Added the vanilla Petrol Lighter as a light source. Every use drains the fuel a bit.
-
-Repack is allowed, just provide proper credit by giving my name + link to the original mod.
-
-Reupload is not allowed.
+添加了香草汽油打火机作为光源。 每次使用都会消耗一点燃油。

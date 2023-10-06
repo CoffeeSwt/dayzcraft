@@ -1,19 +1,19 @@
-What:
-With this mod you'll have Fire System Overhaul and Molotov Mechanics!
+什么：
+有了这个模组，你将拥有消防系统大修和燃烧弹力学！
 
-• "New Molotov Model" ( and Vodka As Well )
-• "You can Lit UP a Molotov and throws it"
-• "Players / Animal / Zombies" will take flame
-• "Damage On Contact if you Step On the molotov flames" ( or if another entities step on )
-• "Fire attached to Entities"
-• "Multiple Ways to Turn Off Fire"
-1) With the action : you can perform action RISED,CROUCHED,PRONED if you dont have any weapon in hand
-2) Rolling on the Ground []
-3) Swimming in the Sea/RIver/Lake
-• "Zombies and Wolves, if they're burning, while hitting u have a chance to lit you on fire as Well"
-• "Every Entities will get Damage Over Time while Burning"
-• "You can use Torches and Broom and hit another entities to have a chance to get it flamed"
-• "Fireplaces , if stepped on, make you burn"
-• "Some minor fix solved"
+•“新莫洛托夫模型”（还有伏特加）
+•“你可以点燃燃烧瓶并将其扔掉”
+•“玩家/动物/僵尸”将燃烧火焰
+•“如果你踩到莫洛托夫火焰，就会造成接触伤害”（或者如果其他实体踩到）
+•“火附着在实体上”
+•“多种灭火方法”
+1) 通过动作：如果你手上没有任何武器，你可以执行“起立”、“蹲伏”、“俯卧”动作
+2) 在地上打滚【】
+3) 在海/河/湖中游泳
+•“僵尸和狼，如果它们正在燃烧，在击中你时也有机会点燃你”
+•“随着时间的推移，每个实体在燃烧时都会受到伤害”
+•“你可以使用火把和扫帚击中其他实体，有机会使其燃烧”
+•“壁炉，如果踩到，就会被烧伤”
+•“解决了一些小问题”
 
-in future i may add medical consequences.
+将来我可能会添加医疗后果。

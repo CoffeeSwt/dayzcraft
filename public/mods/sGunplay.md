@@ -1,92 +1,75 @@
-What is sGunplay
+什么是枪战
 
-sGunplay is the second module of the much more ambitious sUDE project.
-Its main goal is to give a slightly more hardcore and different experience, but carefully balanced to don't make it feel much different from the vanilla game, while improving the PvP (and PvE) in many aspect.
+sGunplay 是更加雄心勃勃的 sUDE 项目的第二个模块。
+它的主要目标是提供稍微更硬核和不同的体验，但仔细平衡，不要让它感觉与普通游戏有太大不同，同时在许多方面改进 PvP（和 PvE）。
 
-Key aspects and reasons of the mod
+该模式的关键方面和原因
 
-The current DayZ gunplay feels too fast and arcade, with sGunplay I try to fix that problem (Keep in mind that it still lacks some core features, therefore it doesn't completely represent the final vision I have for the gunplay)
-sGunplay incentives a more thought-out and slightly slower PvP.
-Running and shooting, rushing enemies while hipfiring and other things that make the game feel like an arcade-type shooter, are less rewarding
-Your inventory now plays a big role in recoil control, precision and weapon handling. Think twice what weapon to use and what stuff you really need to bring with you when going to PvP hot zones (the sClothing module, with layered clothing, redesigned inventory slots and more, will majorly modify this aspect, so stay tuned)
-A more dynamic and always different PvP, thanks to the many features added.
-
-
-
-Differences from vanilla DayZ
-
-Less arcadeish gameplay
-sGunplay rewards a slower paced PvP/PvE
-Slower AimingDownSight (ADS) time, less snappy, robotic and arcadey animation (procedural ADS times will come with future updates)
-"Focus" mechanic. Holding your breath will help you focus while in ADS, giving less sway and more precision. The focus speed will change based on the player stance
-Reduced FieldOfView while aiming ADS, which combined with the new "focus" mechanic incentivate the player to think twice before shooting
-
-Procedural weapon inertia
-No more insane 360° flicks with a 5kg weapon, thanks to the new dybamic inertia system based on:
-Weapon weight
-Inventory weight
-Player stance (erect, crouched, prone)
-Movement speed
-Hipfire (inertia will be much stronger while hipfiring)
-Player injury state
-
-Procedural weapon recoil
-The weapon recoil system has been remade from scratch, which allowed me to make it more realistic, visually more appealing and more dynamic, based on:
-Attachments (more to come in the future)
-Character strength (vanilla softskill you see when you open the inventory)
-Player stance (erect, crouched, prone)
-Inventory weight
-Movement (you'll be able to control recoil much better while standing still)
-Hipfire (while hipfiring you won't be able to control the recoil very easily)
-
-Completely reworked player cameras
-Deadzone! It is also possible to tweak the deadzone strength as you wish
-"PictureInPicture" (PiP) emulation. The mangifying optic lens effect has received a major overhaul to better emulate the dual render technic used by games like Insurgency or EscapeFromTarkov. And it also is compatible with deadzone!
-The camera is not "tied" to the weapon anymore
-Customizable DepthOfField while ADS
-It's possible to Freelook while ADS (only with ironsights and non-magnifying optics)
-It's possible to visually inspect the weapon (only with ironsights and non-magnifying optics)
-
-Dynamic crosshair
-The dynamic crosshair is inspired from the .62 version of DayZ. Such crosshair would help you while hipfiring, showing you where your gun is point at; so it will be much easier to understand if you're shooting a tree or the enemy behind it .
-It can be enabled/disabled from the menu settings
-Servers can decide to disable it by toggling the crosshair options in the serverDZ.cfg
-
-Improved sway and stamina drain
-The weapon sway (caused by the breathing) is a lot more predictable and much easier to control (without crazy spasm from your character).
-Holding your breath will drain your stamina a bit slower than vanilla. This has been done to compensate the "time" you need to focus, while also making the timing more plausible, gameplay and realism wise
-
-Other additions
-You will slightly retract your weapon before lifting it up when you're close to hit a wall. It will help you a lot during CQB!
-
-Need help?
-Come over to my DISCORD[discord.gg]
+目前的 DayZ 枪战感觉太快了，太街机了，我试图用 sGunplay 来解决这个问题（请记住，它仍然缺乏一些核心功能，因此它并不完全代表我对枪战的最终愿景）
+sGunplay 鼓励更加深思熟虑且速度稍慢的 PvP。
+奔跑和射击、一边射击一边冲向敌人以及其他让游戏感觉像街机类型射击游戏的东西，奖励较少
+现在，您的库存在后坐力控制、精度和武器操控方面发挥着重要作用。 去 PvP 热点区域时，请三思而行要使用什么武器以及真正需要携带什么东西（服装模块，具有分层服装、重新设计的库存槽位等，将在这方面进行重大修改，敬请期待）
+由于添加了许多功能，因此更加动态且始终不同的 PvP。
 
 
-Modding
-How to make a weapon compatible
-- If you use vanilla recoils for your modded weapon, there is nothing you have to do!
-- If instead you use a custom recoil and want to make it compatible with sGunplay you may need to specify some more values.
-Come in the DISCORD[discord.gg] for a more detailed guide
 
-How to make an optic compatible
-All you have to do is to change the PPMaskProperties and PPLensProperties inside your config.cpp.
-In both cases the X and Y position must be set to 0.0
-Come in the DISCORD[discord.gg] for a more detailed guide
+与原版 DayZ 的区别
+
+减少街机游戏玩法
+sGunplay 奖励节奏较慢的 PvP/PvE
+较慢的 AimingDownSight (ADS) 时间，不那么活泼的机器人和街机动画（程序 ADS 时间将在未来的更新中出现）
+“焦点”机械师。 屏住呼吸可以帮助您在 ADS 中集中注意力，从而减少摇摆并提高精确度。 对焦速度会根据玩家的姿势而改变
+缩小 ADS 瞄准时的视野，与新的“聚焦”机制相结合，促使玩家在射击前三思而后行
+
+程序武器惯性
+得益于基于以下基础的新动态惯性系统，不再需要使用 5 公斤武器进行疯狂的 360° 轻弹：
+武器重量
+库存重量
+球员姿势（直立、蹲伏、俯卧）
+移动速度
+腰射（腰射时惯性会更强）
+球员伤病状况
+
+程序武器后坐力
+武器反冲系统已从头开始重新制作，这使我能够使其更加真实、视觉上更有吸引力且更具动态性，基于：
+附件（以后还会有更多）
+角色强度（打开库存时看到的普通软技能）
+球员姿势（直立、蹲伏、俯卧）
+库存重量
+移动（站立时你可以更好地控制后坐力）
+腰射（腰射时你将无法轻松控制后坐力）
+
+完全重新设计的玩家相机
+盲区！ 也可以根据需要调整死区强度
+“画中画”(PiP) 模拟。 放大光学镜头效果进行了重大修改，以更好地模拟《Insurgency》或《EscapeFromTarkov》等游戏所使用的双渲染技术。 而且它还与 Deadzone 兼容！
+相机不再“绑”在武器上
+ADS 时可自定义景深
+ADS 时可以自由观察（仅适用于机械瞄准器和非放大光学器件）
+可以目视检查武器（仅使用机械瞄准器和非放大光学器件）
+
+动态十字线
+动态十字准线的灵感来自 .62 版本的 DayZ。 这样的十字准线可以在你进行腰射时为你提供帮助，告诉你你的枪所指的位置； 所以如果你射击一棵树或它后面的敌人，会更容易理解。
+可以从菜单设置中启用/禁用它
+服务器可以通过切换 serverDZ.cfg 中的十字线选项来决定禁用它
+
+改善摇摆和耐力消耗
+武器摇摆（由呼吸引起）更可预测，也更容易控制（角色不会出现疯狂的痉挛）。
+屏住呼吸会比原版慢一点消耗你的耐力。 这样做是为了补偿你需要集中注意力的“时间”，同时也使时间安排更加合理、游戏玩法和现实主义明智
+
+其他补充
+当你快要撞到墙上时，你会稍微收回你的武器，然后再举起它。 它会对你在CQB期间有很大帮助！
+
+需要帮忙？
+过来我的 DISCORD[discord.gg]
 
 
-Github page
-For a better insight give a look at the github page: https://github.com/simonvic/sGunplay
+改装
+如何使武器兼容
+- 如果您的改装武器使用原版后坐力，则无需执行任何操作！
+- 如果您使用自定义后坐力并希望使其与 sGunplay 兼容，您可能需要指定更多值。
+请进入 DISCORD[discord.gg] 获取更详细的指南
 
-Monetization
-You are hereby given monetization approval, as long as you follow the DayZ Server Monetization rules[www.bohemia.net] and have obtained permission from Bohemia
-
-Repack
-You are NOT allowed to repack any part of this mod, unless given my explicit consent
-
-Contact me
-Found a bug or want to give a suggestion? Feel free to contact me!
-Discord server: DISCORD[discord.gg]
-
-
-Buy me a coffee
+如何使光学器件兼容
+您所要做的就是更改 config.cpp 中的 PPMaskProperties 和 PPLensProperties。
+在这两种情况下，X 和 Y 位置必须设置为 0.0
+请进入 DISCORD[discord.gg] 获取更详细的指南

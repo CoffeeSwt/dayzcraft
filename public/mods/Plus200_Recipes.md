@@ -1,79 +1,75 @@
-The goal of this mod is to add recipes for existing objects that can not be crafted from something also "crafted"
+这个模组的目标是为现有的物体添加配方，这些物体不能用同样“制作”的东西制作
 
-!! More than 30 recipes implemented !!
+!! 实施了 30 多个食谱！
 
-Works well with LeatherCrafting : https://steamcommunity.com/sharedfiles/filedetails/?id=1891450049
-Import recipes from bugged addon CraftingPlus : https://steamcommunity.com/sharedfiles/filedetails/?id=1716198080
+与 LeatherCrafting 配合良好：https://steamcommunity.com/sharedfiles/filedetails/?id=1891450049
+从有问题的插件 CraftingPlus 导入食谱：https://steamcommunity.com/sharedfiles/filedetails/?id=1716198080
 
-[NEW RECIPES]
+[新食谱]
 
-Vanilla
+香草
 
-- Plant Material + Plant Material => Rag x1
-- Rope + (Ammo_SharpStick or Plant Material) => Sewing Kit x1
-- StoneKnife + stoneKnife => Whetstone
-- Small Stone x1 + Whetstone 10% => Nail x3
-- Nails x70 + Paper => NailsBox
-- Rag x2 + Sewing kit 10% => Bandage Dressing
-- Sewing Kit (30%) + (Rag x6 or Burlap Strip x3 ) => BurlapSack
-- Tanned leather + SewingKit 100% => Leather Sewing Kit
-- Rag x 6 + Any Knife => Netting
-- Any bag + Any Knife => Rag x6 + Tanned leather
-- Any Jacket or Coat + any Knife => BurlapSack + Rag x6
-- Short stick or Handle Tool + Metal wire = Hacksaw or Handsaw
-- Tanned leather x4 + sticks x3 => medium tent
-- Tanned leather x8 + sticks x5 => military tent
-- military tent + military tent => car tent
-- Metal wire or Barbed wire + pliers => 24 nails
-- Metal sheets x2 + metal wire => barrel
-- Netting x4 + plant material => camo net
-- Stone + Handle Tool or Baseball Bat=> shovel, axe, sledgehammer, pickaxe, Hammer, Hatchet
-- WoodenLog + Axe, Hatchet or HandSaw => Basebal Bat or Handle Tool
-- Stone + Stone => Small Stone x 4
-- Courier Bag or Fur Courier Bag + Leather Sewing Kit 100% => UtilityButtPack
-- Burlap Backpack or FurBackPack + Leather Sewing Kit 100% => Assault Backpack
-- Leather Backpack or Hunting Bag + Leather Sewing Kit 100% => , Coyote BackPack
-- Burlap Backpack or Fur BackPack => Hunting Bag
-- Assault Backpack + Leather Sewing Kit 100% => Tortilla BackPack
-- Tortilla BackPack or Coyote BackPack + Leather Sewing Kit 100% => Alice Bag
-- PlantMaterial + Courier Bag or Fur Courier Bag = >Garden lime (quantity: 100/5000)
-- PlantMaterial + Garden lime => Fill Garden lime
-- Garden lime (1000) + Any Pelt => Tanned leather
-- Decraft Tents => Rag x6 + Tanned leather x2
-- Decraft bags=> Rag x3 + Tanned leather x1
-- Metal wire or barbed wire + Pipe => Pliers
-- Pipe + Hammer or SledgeHammer => CrowBar
-- Crowbar or Hacksaw or Pliers + Hescobox => Metalwire
-- Fill Epoxy on Tree
-- EpoxyPutty (50%) + Burlap stripx3 or Rags x6 => Duct tape
-- Repair Rust car part with epoxy (90%)
-- Car battery + Car Battery = Truck Battery
-- Repair Action on Car Radiator with epoxy on hands
-- Repair Action on vehicule battery with electronic repair kit
-- CarDoor + saw = MetalPlate
+- 植物材料 + 植物材料 => 抹布 x1
+- 绳子 + (Ammo_SharpStick 或植物材料) => 缝纫套件 x1
+- 石刀 + 石刀 => 磨刀石
+- 小石头 x1 + 油石 10% => 钉子 x3
+- 钉子 x70 + 纸 => 钉子盒
+- 抹布 x2 + 针线包 10% => 绷带敷料
+- 缝纫工具包 (30%) + (碎布 x6 或粗麻布条 x3 ) => 粗麻袋
+- 鞣制皮革 + 缝纫套件 100% => 皮革缝纫套件
+- 抹布 x 6 + 任意刀 => 网
+- 任何包 + 任何刀 => 抹布 x6 + 鞣制皮革
+- 任何夹克或外套 + 任何刀 => 粗麻布袋 + 抹布 x6
+- 短棍或手柄工具 + 金属线 = 钢锯或手锯
+- 鞣制皮革 x4 + 木棍 x3 => 中型帐篷
+- 鞣制皮革 x8 + 木棍 x5 => 军用帐篷
+- 军用帐篷+军用帐篷=>汽车帐篷
+- 金属丝或铁丝网 + 钳子 => 24 个钉子
+- 金属片 x2 + 金属线 => 桶
+- 网 x4 + 植物材料 => 迷彩网
+- 石头+手柄工具或棒球棒=>铲子、斧头、大锤、镐、锤子、斧头
+- 木原木 + 斧头、斧头或手锯 => 棒球棒或手柄工具
+- 石头 + 石头 => 小石头 x 4
+- 快递袋或毛皮快递袋 + 皮革缝纫套件 100% => UtilityButtPack
+- 粗麻布背包或毛皮背包 + 皮革缝纫套件 100% => 突击背包
+- 皮革背包或狩猎包 + 皮革缝纫套件 100% => , Coyote 背包
+- 粗麻布背包或毛皮背包 => 狩猎包
+- 突击背包 + 皮革缝纫套件 100% => 玉米饼背包
+- 玉米饼背包或郊狼背包 + 皮革缝纫套件 100% => Alice 包
+- 植物材料+快递袋或毛皮快递袋=>花园石灰（数量：100/5000）
+- 植物材料 + 花园石灰 => 填充花园石灰
+- 花园石灰 (1000) + 任何毛皮 => 鞣制皮革
+- Decraft 帐篷 => 抹布 x6 + 鞣制皮革 x2
+- Decraft 包=> 碎布 x3 + 鞣制皮革 x1
+- 金属丝或铁丝网 + 管子 => 钳子
+- 管子 + 锤子或大锤 => CrowBar
+- 撬棍或钢锯或钳子 + Hescobox => Metalwire
+- 在树上填充环氧树脂
+- 环氧腻子 (50%) + 粗麻布条 x3 或抹布 x6 => 管道胶带
+- 用环氧树脂（90%）修复生锈的汽车零件
+- 汽车电池 + 汽车电池 = 卡车电池
+- 手上沾有环氧树脂对汽车散热器进行修复操作
+- 使用电子维修套件对车辆电池进行维修操作
+- 车门 + 锯 = 金属板
 
-Mod - Repair My Car
-- Pipe + Any Canister => BlowTorch
+Mod - 修理我的车
+- 管道 + 任意罐 => 喷灯
 
-[]
+客户端和服务器端都需要此模块。
 
-This mod is required both client & server side.
-
-Drag the @Plus200_Recipes folder into your servers directory where all your other mods are located.
-Open the @Plus200_Recipes folder and locate the keys folder open that folder and copy the key inside of it into your servers key folder.
-Add @Plus200_Recipes to your servers launch line :
+将 @Plus200_Recipes 文件夹拖到所有其他 mod 所在的服务器目录中。
+打开 @Plus200_Recipes 文件夹并找到密钥文件夹，打开该文件夹并将其中的密钥复制到服务器密钥文件夹中。
+将 @Plus200_Recipes 添加到您的服务器启动行：
 > "DayZServer_x64.exe" -mod=F:\Steam\steamapps\common\DayZServer\!Workshop\@Plus200_Recipes;
 
-[UPCOMING RECIPES]
-- (BurlapSack ou tanned leather) + Sewing Kit 100%=> some shirt from here : https://dayz.gamepedia.com/Clothing
-- BurlapSack + Leather Sewing Kit 100% => Holster, belt; gloves,
-- Tanned leather + Leather Sewing Kit => clothes not already craftable : Leather clothes https://dayz.gamepedia.com/Tanned_Leather
-- SewingKit (100%) + Rope=> Netting
-- Furnitures craft (Table, sofa, chair, shelf etc.)
+[即将推出的食谱]
+-（BurlapSack 或鞣制皮革）+ 缝纫套件 100%=> 这里的一些衬衫：https://dayz.gamepedia.com/Clothing
+- 粗麻袋 + 皮革缝纫套件 100% => 皮套、腰带； 手套，
+- 鞣制皮革 + 皮革缝纫套件 => 尚未可制作的衣服：皮革衣服 https://dayz.gamepedia.com/Tanned_Leather
+- 缝纫工具包 (100%) + 绳子=> 网
+- 家具工艺（桌子、沙发、椅子、架子等）
 
-[UPCOMING CHANGES]
-- Replace stone by metal (Iron?) ingredient for tools (will add dependency to the futur Plus200_Mining mod)
-- Use action instead of Recipe for recipe with tool
-- some recipes will need a machine (Vise, workbench, anvil etc.)
-
-Feel free to put your ideas on comment
+[即将发生的变化]
+- 用金属（铁？）成分代替石头作为工具（将增加对未来 Plus200_Mining mod 的依赖）
+- 使用工具代替配方来制作配方
+- 有些食谱需要机器（虎钳、工作台、铁砧等）

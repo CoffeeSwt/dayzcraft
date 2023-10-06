@@ -1,27 +1,17 @@
-Приветствую вас! Перед вашими глазами красиво изготовлены мутанты для проекта ValHell Hard RP - TLoU[discord.gg]
-На данный момент готовы: Щелкун, Топляк и Шаркун.
-Модели и звуки соотвествуют мутанту.
-(В дальнейшем будут получать обновления и расширения мутантов из вселенной The Last of Us)
-если вы хотите получить разрешение на перепаковку, напишите мне в Discord - cube_official
-В репак входит возможность настройки мутантов.
-Разрешено использование, если вы поставите лайк нашему моду, а так же добавите в коллекцию с ссылкой на мод.
-Если вы хотите меня поддержать - https://boosty.to/cube_off
-‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
-Greetings to you! Before your eyes, beautifully crafted our mutants for the project ValHell Hard RP - TLoU
-At the moment, the following are ready: Clicker, Bloater and Shamblers.
-Models and sounds correspond to the mutant.
-(In the future, they will receive updates and extensions of mutants from the universe of The Last of Us)
-If you want to get permission to repackage, write to me at Discord - cube_official
-The repack includes the ability to configure mutants
-It is allowed to use it if you like our mod, as well as add it to the collection with a link to the mod.
-If you want support me - https://boosty.to/cube_off
-
-ВНИМАНИЕ! ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
-БЕЗ МОЕГО ВЕДОМА
-Ни при каких обстоятельствах не монетизировать/перепаковывать/изменять/загружать повторно этот контент!
-За любое нарушение из выше написанного ваш мод будет удалён с помощью уведомления DMCA без предупреждения.
-
-WARNING! ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
-WITHOUT MY KNOWLEDGE
-Under no circumstances monetize/repackage/modify/re-upload this content!
-For any violation of the above, your mod will be removed with a DMCA notification without warning.
+问候！ 在您眼前，ValHell Hard RP 项目精心制作的变种人 - TLoU[discord.gg]
+目前已准备就绪：胡桃夹子、托普利亚克和鲨鱼昆。
+模型和声音对应于突变体。
+（未来，《最后生还者》宇宙中的变种人将获得更新和扩展）
+如果您想要重新打包的权限，请在 Discord 上给我写信 -cube_official
+重新包装包括定制突变体的能力。
+如果您喜欢我们的模组，并且将其添加到带有模组链接的集合中，则可以使用。
+如果你想支持我 - https://boosty.to/cube_off
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+向你问好！ 在您眼前，为 ValHell Hard RP - TLoU 项目精心制作了我们的变种人
+目前，以下内容已准备就绪：Clicker、Bloater 和 Shamblers。
+模型和声音对应于突变体。
+（将来，他们将收到来自《最后生还者》宇宙的变种人的更新和扩展）
+如果您想获得重新打包的许可，请在 Discord 上给我写信 -cube_official
+重新包装包括配置突变体的能力
+如果您喜欢我们的模组，则可以使用它，也可以将其添加到带有模组链接的集合中。
+如果你想支持我 - https://boosty.to/cube_off

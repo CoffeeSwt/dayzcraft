@@ -1,23 +1,14 @@
-Give And Take
+给予和索取
 
-This mod is in early testing phase. Use at your own risk.
+该模组正处于早期测试阶段。 使用风险自负。
 
-Adds two new sets of actions to the game:
-1. Offering and item and a player takes it from you.
-2. Another player requests an item and you give it to him.
+向游戏添加两组新动作：
+1. 提供物品和物品，然后玩家从你手中夺走它。
+2. 另一位玩家请求一个物品，您将其给他。
 
-The default key for offering/requesting an item is "O". If you have an item in your hand you can offer it to another player. If you have no item in hands you can request an item from a player.
+提供/请求物品的默认键是“O”。 如果您手中有物品，您可以将其提供给其他玩家。 如果您手中没有物品，您可以向玩家请求物品。
 
-Putting items in another players pockets:
-Additionally you can unlock your inventory so that other players can put items in your pockts.
-In order to toggle the access a hot key needs to be assigned.
-If a player has unlocked its inventory a additional action will appear on the player.
-
-Repack/Modify/Redistribute
-
-You ARE ALLOWED to repack, reupload, modify and redistribute this mod however you want.
-
-Don't ask me for any special features requests or whatever. I will not do any special versions for anyone. Just take the mod and make adjustments as you need and publish the adjusted version!
-
-Contact
-Discord: affenb3rt#4704
+将物品放入其他玩家的口袋中：
+此外，您可以解锁您的库存，以便其他玩家可以将物品放入您的口袋中。
+为了切换访问，需要分配热键。
+如果玩家已解锁其库存，则玩家将出现一个附加操作。

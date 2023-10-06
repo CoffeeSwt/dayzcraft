@@ -1,15 +1,5 @@
-Make night fun with viable light sources!
+利用可行的光源让夜晚变得有趣！
 
-This mod increases the radius of all light sources in the game and dramatically increases the illumination time for RoadFlares, Torches, LongTorches, and Chemlights.
+该模组增加了游戏中所有光源的半径，并显着增加了 RoadFlares、Torches、LongTorches 和 Chemlights 的照明时间。
 
-If you think roadflares, chemlights and other items in the game take up slightly too much room in your inventory then check out ItemSizeTweak.
-
-To install server side:
--Download the mod to the root directory of your server
--Copy the key file from the keys directory to your server's keys directory
--Add this mod to your launch parameters
-
-To install client side using DayZ launcher:
--Subscribe to the mod
--Open DayZ launcher and check mark the mod in the mods list
--Add the mod's folder name to the end of your mod string
+如果您认为游戏中的道路照明弹、化学灯和其他物品在您的库存中占用了太多空间，那么请查看 ItemSizeTweak。

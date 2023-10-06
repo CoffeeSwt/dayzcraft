@@ -1,19 +1,8 @@
-Hardcore Backpack is a mod that aims to make the use of a backpack a bit more difficult...
+硬核背包是一个旨在让背包的使用变得更加困难的模组......
 
-While the backpack is on your back you can:
-- No longer fully access your backpack.
-- Freely use and quickbar only your backpack attachments.
-- Pick up items into your backpack.
+当背包背在背上时，您可以：
+- 不再完全访问你的背包。
+- 自由使用和快速栏仅您的背包附件。
+- 将物品放入背包中。
 
-In order to manage your backpack's inventory, you will have to either hold it in your hands or drop it on the ground. Consequently, you will have to enter fights prepared or risk consequences for nothing having what you need at the ready.
-
-Unpacking, repacking, copying files is not allowed under any conditions.
-Unpacking is allowed only if your only intent is learning! Although in this mod, there isn't too much to learn from :D
-
-Why do I not allow repacking?
-Well...simply put, if people repack all the mods into their server mods, then there's a high chance your players will have to redownload content they already have! It doesn't make your server any faster at all when you repack mods!
-
-Can I run this mod on a monetized server?
-Yes, you can run this mod on your monetized server, but its features are not allowed to be monetized!
-
-Copyright 2020-2022 Maroonchy. This item is not authorized for posting on Steam, except under the Steam account named Maroonchy.
+为了管理背包的库存，您必须将其握在手中或将其扔在地上。 因此，你必须做好准备参加战斗，否则就会因为没有准备好所需的东西而承担后果。

@@ -1,23 +1,9 @@
-What Is This?
+这是什么？
 
-This mod makes logging in a little bit more immersive.
+这个模组让登录更加身临其境。
 
-When a player logs in, they will slowly open their eyes while lying down.
+当玩家登录时，他们会躺着慢慢睁开眼睛。
 
-This also helps with exploiting x-ray vision when logging in on a computer that doesn't load all the surrounding walls in quickly, and prevents the player from being able to gun down anyone standing next to them after logging in as the player needs to stand up first before they can do anything.
+这也有助于在登录计算机时利用 X 射线视觉，而计算机不能快速加载所有周围的墙壁，并防止玩家在登录后根据玩家需要射杀站在他们旁边的任何人。 在他们可以做任何事之前先站起来。
 
-The mod also creates a fire next to the player when they first spawn a fresh character, giving the impression they were sleeping by a fire and suddenly awoke instead of just appearing already standing. The fireplace extinguishes itself after a few seconds to prevent suiciding on it or being able to use the fireplace for warmth etc, and the ashes will despawn as soon as the player leaves the area.
-
-You can disable the fireplace being created when a player spawns a new character by creating a .txt file in your server profiles folder.
-
-If you create a file called "disablespawnfire.txt" in the directory "server_root/profiles/Zenarchist/disablespawnfire.txt" then the mod will not spawn a fire next to freshly spawned players.
-
-Installation Instructions:
-
-Install this mod like any other mod - copy it into your server folder and add it to your mods list. It must be run on both server and client. Make sure to copy the .bikey into your server keys if you're not using a server management tool like OmegaManager which does that automatically.
-
-Repack & Source Code:
-
-You can repack this mod if you like, and do anything else you want with it for that matter. Just keep in mind my future updates won't be applied so make sure to check back for new versions if you notice any bugs. The source code is on my GitHub at www.zenarchist.io
-
-Enjoy!
+当玩家第一次生成新角色时，该模组还会在玩家旁边制造一团火，给人一种他们在火边睡觉并突然醒来的印象，而不是仅仅看起来已经站着。 几秒钟后壁炉会自行熄灭，以防止自杀或使用壁炉取暖等，一旦玩家离开该区域，灰烬就会消失。

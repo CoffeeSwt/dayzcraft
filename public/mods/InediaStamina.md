@@ -1,60 +1,39 @@
-Introduction
-The modification adds general (aerobic) stamina and sleep mechanics to the game.
+介绍
+该修改为游戏添加了一般（有氧）耐力和睡眠机制。
 
-The purpose of the modification is to make the character's stamina close to real life.
-The vanilla stamina mechanic allows the character to run continuously for hundreds of kilometers without consequences, with the character sprinting most of the way.
-In the new modified mechanics, sprinting is a valuable resource that must be used wisely in the right situations.
+修改的目的是让角色的体力接近现实生活。
+原版耐力机制允许角色连续奔跑数百公里而不会产生任何后果，其中大部分时间都是冲刺。
+在新的改进机制中，冲刺是一种宝贵的资源，必须在正确的情况下明智地使用。
 
-Wiki: InediaStamina Wiki[github.com]
-Discord: Discord[discord.gg]
+维基：InediaStamina 维基[github.com]
+不和谐：不和谐[discord.gg]
 
-Short list of what consumes or affects rate of consumption of general stamina:
-* Character movement type;
-* Slope of terrain;
-* Type of surface (road, grass, forest, etc.);
-* Character load weight;
-* Character clothing;
-* Climbing, jumping, rolling;
-* Stone, planks mining, logging;
-* Building;
-* Character is hot;
-* Character sleep level;
+消耗或影响一般耐力消耗率的简短列表：
+* 角色移动类型；
+* 地形坡度；
+* 表面类型（道路、草地、森林等）；
+* 角色负载重量；
+* 角色服装；
+* 攀爬、跳跃、翻滚；
+* 石材、木板开采、伐木；
+* 建筑;
+* 角色火辣；
+*角色睡眠水平；
 
-Description in steam has limitations, so a very detailed description of the mod can be found on wiki page in github:
-InediaStamina Wiki[github.com]
+steam中的描述有局限性，因此可以在github的wiki页面上找到该mod的非常详细的描述：
+InediaStamina 维基[github.com]
 
-Information for those who suffer
-With this modification, you will have to completely rethink your playing style, you need to experience the modification before making any conclusions.
+给受苦受难者的信息
+通过这次修改，你将不得不彻底重新思考你的游戏风格，你需要体验修改后才能做出任何结论。
 
-For example, how often do you run with a load of 50 kg in real life? It used to be a common thing in this game - now you will have to keep track of your load weight.
+例如，您在现实生活中多久负重50公斤跑步？ 这曾经在这个游戏中是很常见的事情 - 现在你必须跟踪你的负载重量。
 
-Make sure the character doesn't get too hot, as in this state general stamina is depleted twice as fast.
+确保角色不会变得太热，因为在这种状态下，一般耐力会以两倍的速度耗尽。
 
-Avoid sprinting, as sprinting consumes 15 times more stamina than jogging!
+避免短跑，因为短跑消耗的体力比慢跑多 15 倍！
 
-There is also no need to run uphill, as the slope of terrain greatly affects stamina consumption. It is better to walk uphill. How often in real life do you run uphill with loading weight of 50 kg?
+也不需要跑上坡，地形的坡度对体力消耗影响很大。 最好步行上山。 在现实生活中，您有多少次负重50公斤上坡跑？
 
-If you like to move with large load weight - use walking (double LEFT CTRL), if the load weight is less than 50 kg, when walking, general stamina is not spent, but only restored, but even with weight of more than 50 kg, it is not spent much.
+如果你喜欢大负重移动——使用步行（双左CTRL），如果负重小于50公斤，步行时，一般体力不会消耗，只是恢复，但即使负重超过50公斤 ，花费不多。
 
-And always remember: knowing certain rules - everything will be fine. These are rules from real life.
-
-Special versions for other modifications
-Version for Syberia Project: InediaStaminaSyberia
-
-Suggestions and reporting bugs
-You can do it here[github.com] by creating a issue.
-Or report to e-mail: inedia49@gmail.com
-
-Don't report bugs in comments, I won't be able to read it because I didn't find the ability to subscribe to comments in steam.
-
-Support the author
-You can do it here[github.com].
-
-My other DayZ Standalone mods
-InediaInfectedAI
-
-You can use this mod on your server, but repack and re-uploading is not allowed.
-
-Copyright johnkind. This item is not authorized for posting on Steam, except under the Steam account johnkind.
-
-Tags: realistic stamina endurance mechanics slope surface weight sleep
+永远记住：了解某些规则 - 一切都会好起来的。 这些是现实生活中的规则。

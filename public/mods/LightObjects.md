@@ -1,19 +1,14 @@
-Light Objects
-10 objects that can be spawned on a map. Adds light, particle and other effects to vanilla DayZ objects.
-Airfield_Light_Pole
-Airfield_Landing_Light (Green, Strobes S.O.S, No Shadows, Off in daylight)
-Light_Pole_Wood
-Tower_Beacon_Light (Red, Strobes, No Shadows)
-Furniture_Hangar_Lamp
-Industrial_Fluoresent_Light
-Campfire_WithHeat (Produces heat for drying items and getting warm, light effect at night)
-Infected_BurningBodies (Has fire and smoke particles, light effect at night)
+轻物体
+可以在地图上生成 10 个物体。 为普通 DayZ 对象添加光、粒子和其他效果。
+机场_灯_杆
+Airfield_Landing_Light（绿色、闪光灯 S.O.S、无阴影、白天关闭）
+灯杆木头
+Tower_Beacon_Light（红色、频闪、无阴影）
+家具_机库_灯
+工业_荧光_灯
+Campfire_WithHeat（产生热量用于干燥物品并在夜间取暖、灯光效果）
+Infected_BurningBodies（有火焰和烟雾颗粒，夜间灯光效果）
 Flaming_Candle_WithLight
 Flaming_Candle_NoLight
 
-Each Item has default point light attached set to cast shadows and not be on during daytime, unless noted above.
-
-Do not repack. Do not reupload
-
-Installation On Server
-Copy 'GazKey.bikey' file from '@LightObjects/Keys' folder to server root 'keys' folder.
+每个项目都附加了默认的点光源，用于投射阴影，并且在白天不会打开，除非上面另有说明。

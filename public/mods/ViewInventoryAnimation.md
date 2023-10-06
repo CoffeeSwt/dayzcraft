@@ -1,23 +1,7 @@
-View Inventory Animation
+查看库存动画
 
-This mod enables a animation while the player is in inventory.
+该模组会在玩家处于库存状态时启用动画。
 
-You can disable the animation being played on the controlled player. This does not stop the animation from being played for other players. Other players will still be able to see when you are in inventory due to the animation being played from them no matter if you disabled it locally for your own player.
+您可以禁用受控播放器上正在播放的动画。 这不会阻止向其他玩家播放动画。 无论您是否在本地为自己的玩家禁用动画，其他玩家仍然能够看到您何时在库存中，因为他们正在播放动画。
 
-You can disable the animation being played in the player preview in inventory.
-
-Server owners
-At startup the mod will generate a config file called via.json in your profiles folder.
-You can edit this file to force the animation being played locally for players or in the player preview in inventory even if they disabled it as well as a delay time that the player must have the inventory open before the animation starts playing.
-
-{
-    "forcePreview": 0,
-    "forceAnimation": 0,
-    "delay": 0.6
-}
-
-Repack/Modify/Redistribute
-
-You ARE ALLOWED to repack, reupload, modify and redistribute this mod however you want.
-
-Don't ask me for any special features requests or whatever. I will not do any special versions for anyone. Just take the mod and make adjustments as you need and publish the adjusted version!
+您可以禁用清单中播放器预览中正在播放的动画。

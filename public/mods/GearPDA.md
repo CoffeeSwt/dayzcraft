@@ -1,27 +1,15 @@
-Description
+描述
 
-Adds a PDA to the game, through which players can communicate with text messages.
+在游戏中添加PDA，玩家可以通过它进行短信交流。
 
-To communicate with a player, you need to add him as a friend by name or ID. So you need to meet with the player in the game for know his name.
+要与玩家交流，您需要通过姓名或ID将其添加为好友。 所以你需要在游戏中与玩家见面才能知道他的名字。
 
-Global channel is present and can be enabled by server owner.
+全球频道存在并且可以由服务器所有者启用。
 
-Messages can be written only to online players.
+消息只能写给在线玩家。
 
-The history of messages and contacts is stored on the client side, which does not load the server. This is good optimized and very lightweight mod.
+消息和联系人的历史记录存储在客户端，不会加载服务器。 这是一个很好的优化且非常轻量级的模组。
 
-The mod saves the contact list and message history (the last 100 messages in each chat).
+该模组保存联系人列表和消息历史记录（每个聊天中的最后 100 条消息）。
 
-The PDA is battery powered and can be repaired.
-
-
-For server owners
-
-Required mods (dependencies):
-- Comunity Framework: https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036&searchtext=CF
-
-The PDA classname is "ItemPDA"
-
-You must add it to the spawn in the game yourself.
-
-For enable GLOBAL CHANNEL - please edit "GearPDA_ServerOptions.json" in profile folder of server and change the "m_enableGlobalChannel" parameter from 0 to 1.
+PDA 由电池供电并且可以维修。

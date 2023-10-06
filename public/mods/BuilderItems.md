@@ -1,19 +1,19 @@
-BuilderItems is a mod that allows server owners to have a much wider range of options when placing details on the map.
+BuilderItems 是一个模组，它允许服务器所有者在地图上放置详细信息时拥有更广泛的选项。
 
-This is not the editor itself, but a mod to give you more options with the editor! You still need to download and use community offline mode. Watch the video.
+这不是编辑器本身，而是一个为您提供更多编辑器选项的模组！ 您仍然需要下载并使用社区离线模式。 观看视频。
 
-This is NOT a server side mod only. It needs to be loaded on all clients connecting to the server. It needs to be loaded on the server for the items to show up.
+这不仅仅是服务器端模组。 它需要加载到所有连接到服务器的客户端上。 需要将其加载到服务器上才能显示项目。
 
-For editing only: In order to get names of items already on the map you need to install this now: https://steamcommunity.com/sharedfiles/filedetails/?id=1570627596. Do not use it on client or server, only for offline mode.
+仅用于编辑：为了获取地图上已有项目的名称，您需要立即安装：https://steamcommunity.com/sharedfiles/filedetails/?id=1570627596。 不要在客户端或服务器上使用它，仅用于离线模式。
 
-Currently, Builder gives about ~1700 props, walls, roads, map objects, etc etc proper class configurations so that owners may use them as decoration or design of their map.
+目前，Builder 提供了大约 1700 个道具、墙壁、道路、地图对象等适当的类配置，以便所有者可以将它们用作地图的装饰或设计。
 
-If you're just a player, all you have to do, is hit subscribe and forget about it, this mod doesn't really change anything as far as you're concerned.
+如果你只是一个玩家，你所要做的就是点击订阅并忘记它，就你而言，这个模组并没有真正改变任何东西。
 
-For server owners, here's a guide on how to use this to increase your options when editing the map, and a guide on how to use COM for placing objects in general: https://youtu.be/2KX2tRTO-ag
+对于服务器所有者，这里有一个关于如何使用它来增加编辑地图时的选项的指南，以及如何使用 COM 来放置一般对象的指南：https://youtu.be/2KX2tRTO-ag
 
-Link to COM dev branch: https://github.com/Arkensor/DayZCommunityOfflineMode
+COM 开发分支链接：https://github.com/Arkensor/DayZCommunityOfflineMode
 
-BuilderItems is built into DayZ Expansion. Do not load this mod if you're using Expansion!
+BuilderItems 内置于 DayZ Expansion 中。 如果您正在使用扩展，请勿加载此模组！
 
-Anyone who wants to repack this mod into their server mod, I give you full permission to do so, as this is such a basic mod. Can be used on monetized servers as well.
+任何想要将此 mod 重新打包到他们的服务器 mod 中的人，我都给予您这样做的完全许可，因为这是一个基本的 mod。 也可以在货币化服务器上使用。

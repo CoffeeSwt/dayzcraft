@@ -1,74 +1,23 @@
-What Is This?
+这是什么？
 
-This mod adds a player-tracking feature: dropped garbage after consuming vanilla packaged food & medical items.
+该模组添加了玩家跟踪功能：在食用原版包装食品和医疗物品后掉落垃圾。
 
-There are some lightly re-textured models for empty food cans etc, nothing too fancy.
+有一些针对空食品罐等的轻微重新纹理的模型，没有什么太花哨的。
 
-The mod is intended for hardcore and RP servers so that players can track other players' activity by finding their garbage trail - if players don't want to be tracked, then they need to clean up after themselves carefully ;)
+该模组适用于硬核和 RP 服务器，以便玩家可以通过查找其他玩家的垃圾踪迹来跟踪其他玩家的活动 - 如果玩家不想被跟踪，那么他们需要仔细清理自己;)
 
-You can craft empty cans into fish hooks (optional - can be disabled in the server config. Very rough on your knife tool and produces a damaged hook).
+您可以将空罐制作成鱼钩（可选 - 可以在服务器配置中禁用。对您的刀具非常粗糙，会产生损坏的鱼钩）。
 
-You can turn some paper-based food packets into regular paper.
+您可以将一些纸质食品包装袋变成普通纸。
 
-You can hold liquids in empty jam or honey jars (only 250mL, 25% of regular bottles - and they're extremely fragile and easy to ruin).
+您可以将液体装在空果酱罐或蜂蜜罐中（只有 250 毫升，是普通瓶子的 25% - 而且它们非常脆弱且容易损坏）。
 
-Items That Drop Junk When Consumed:
+消耗时会掉落垃圾的物品：
 
-- All vanilla packaged food and drink items
-- Used saline bags
-- Used blood bags
-- Used morphine, epinephrine and pox injectors
-- MRE items from MassFood mod (as an example of how to add modded items)
+- 所有香草包装食品和饮料
+- 用过的盐水袋
+- 用过的血袋
+- 使用过的吗啡、肾上腺素和痘注射器
+- 来自 MassFood mod 的 MRE 物品（作为如何添加 modded 物品的示例）
 
-Keep in mind that any modded items will only drop empty versions of themselves and not re-textured items with a unique name & description. But it's the best I can do with this sort of mod, and better than nothing I guess!
-
-Installation:
-
-To install follow the usual steps - subscribe to the mod, copy the mod folder to your server folder, copy the .bikey file into the server's key folder, and then (optional) copy the types.xml entries into your types. Don't forget to put the mod "@ZenLeftovers" in your server's mods list.
-
-The types.xml file is optional - if you don't add the types, then the food items will disappear immediately when a player is not nearby. If you have a popular server this might be preferred, if you have a quieter server you might want to implement the types.xml items so that you can still track players who have left an area.
-
-The default persistence on all empty garbage items is 30 minutes.
-
-If you use vanilla food items you don't need to do anything else, but if you use food or medical mods and want to add them you'll need to modify the .json config file. Further instructions are included in the mod files.
-
-Also be aware there may be conflicts with any mods that override any of the player consume functions - especially any that affect how food/water/meds are consumed. I haven't done any testing with other food mods except for MRE Foods so please let me know if you encounter any bugs while consuming items with this mod installed.
-
-Adding Modded Items:
-
-This mod comes with a JSON config file that you can modify to add extra items. Run your server once after installation, and a JSON config file will be added in your server config folder under "Zenarchist/ZenLeftoversConfig.json".
-
-This file is where you can add extra junk items that get dropped after consuming an original food/drink/medical item.
-
-Make sure that your JSON syntax is correct or it'll break the mod, but all you need to do to add a junk item entry is add something like this:
-
-{
-    "OriginalItemType": "Food_Type_Name",
-    "LeftoverItemType": "Junk_Type_Name",
-    "ItemHealth": 1,
-    "DropToGround": 0
-}
-
-It'll work with any item, doesn't necessarily need to be food (could be meds too for example).
-
-OriginalItemType is the item you consume.
-LeftoverItemType is the item that is dropped on the ground after.
-ItemHealth is the HP of the junk item - 0 means inherit health from the original item, -1 means ruined, 1-100 means HP (1 = badly damaged).
-DropToGround is a true/false 1/0 value - 0 means the junk item will be placed in the player's hands, 1 means the item will be dropped onto the ground.
-
-The persistence on these junk items will also be whatever the edible equivalents are in your types.xml files, so be aware that this might result in your server being overly cluttered with junk items. If you have a popular server and want to run this mod you might want to set the ItemHealth to -1 so that the junk item spawns ruined and despawns if no one is around.
-
-You can also disable the use of empty jars as water containers by changing the LeftoverItemType for honey and marmalade to Empty_Honey_NoLiquid and Empty_Marmalade_NoLiquid (particularly useful for Namalsk as the default Empty model doesn't freeze).
-
-Repacking & Credits:
-
-Feel free to repack or use this mod or its source code in any way with no credit necessary :)
-
-Huge thanks to everyone in the DayZ Modding discord (https://discord.com/invite/NEX27Gx) - I learned how to do all of this by just searching through prior discussions. Also thanks Spurgle for your retexturing vanilla items guide on YouTube, and thanks heaps to Mass for some great suggestions & advice.
-
-Source Code:
-Check out the source code to all my mods here: Github[www.zenarchist.io]
-
-PS. Check Out My Servers:
-
-If you want to see all of my mods in action check out HardcoreDayZꓸcom!
+请记住，任何修改过的物品只会掉落其自身的空版本，而不会使用唯一名称和描述重新纹理化物品。 但这是我能用这种模组做的最好的事情了，我想总比没有好！

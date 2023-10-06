@@ -1,47 +1,6 @@
-**UPDATE**
-Removed 'temp fix' for BIs messup with 1.18.. all works properly now.
-Changed to vanilla notication system when finding stuff.
-If you get errors about STATICFIX, you’ll need to remove that PBO manualy,
-Steam is supposed to remove it but sometimes doesn’t.
+增加了在地图上的垃圾箱和垃圾堆中搜索随机饮料、食物和低端物品的功能。
+目前，这仅适用于黑俄罗斯、利沃尼亚和鹿岛。 更多地图即将推出！ 所有地图！
+最多允许找到 40 个自定义物品，这意味着您也可以使用其他模组中的任何物品！
 
-
-Adds the ability to search for random drinks, food and low end items in garbage bins and piles located on the map.
-Currently this is for Chernarus, Livonia, and DeerIsle only. more maps to come! ALL MAPS!
-Allows up to 40 custom items to be found, meaning you can use ANY item from other mods as well!
-
-Make sure not to cut yourself when searching the trash, use gloves!
-And a mask might help with the revolting stench
-
-NEW:
-Dynamic Maps!! It is now dynamic to ALL maps(so far)
-Now will find custom placed garbage bins using bldr_ Items.
-
-Added server config into the server profile folder.
-Allows to turn on and off debug logs (can help increase server start time when disabled)
-Allows to add up to 40diff itemsto be found during a search.
-NOTE: Make sure to restart the server TWICE after making changes.
-
-TODO:
-Add more maps.
-Separate items in to catogorys for diff chances to find
-
-This is a WIP!
-Please report any issue you come across!
-
-Other Mods:
-
-[[NoMuffle]] -Removes muffled voice from helemts and gas masks
-
-[[JunkYardDog]] -Adds ability to salvage parts and fuel from wrecks, and fuel from active cars.
-
-[[VendingSearch]]-Adds ability to search vending machiens for drinks.
-
-
-
-USAGE & TERMS:
-- You may not repack or publish this mod on any platform including Steam.
-
-PERMISSION IS NOT GRANTED FOR THIS MOD TO BE INCLUDED IN A "SERVER PACK" or "MOD PACK".
-Use a Collection if you want to include this mod on your server for your users.
-
-Copyright © 2020 Zedmag
+搜索垃圾时请确保不要割伤自己，请戴上手套！
+口罩可能有助于消除令人作呕的恶臭

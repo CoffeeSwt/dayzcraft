@@ -1,37 +1,30 @@
-Take your DayZ survival to new depths with the Multi-Level Underground Bases Mod! This mod introduces a revolutionary concept, allowing you to build underground shelters with three distinct levels of upgrades.
+使用多层地下基地模组将您的 DayZ 生存提升到新的深度！ 该模组引入了一个革命性的概念，允许您建造具有三个不同升级级别的地下避难所。
 
+三个级别的升级：地下之旅，在三个不同的级别上打造你的秘密地下基地。 每个级别都有独特的用途，从额外的存储区域到生活区等等！
 
+战略优势：利用多层地下基地提供的战术机会进行观察、伏击和安全装备存储。
 
+个性化：根据您的喜好定制每个级别，无论是睡眠区、储藏室、工艺区、舱口迷彩，还是地下花园。
 
-Three Levels of Upgrades: Journey underground to craft your covert underground base across three distinct levels. Each level serves a unique purpose, from additional storage area to living quarters and beyond!
+增强的安全性：使用密码锁或密码锁来强化您的多层堡垒！
 
-Strategic Advantage: Exploit the tactical opportunities offered by your multi-level underground base for observation, ambushes, and secure gear storage.
+如何建造你的地下基地：
 
-Personalization: Tailor each level to your preferences, whether it's for sleeping quarters, storage rooms, crafting areas, hatch camouflage, or even underground gardens.
+1级：
 
-Enhanced Security: Fortify your multi-level fortress with a code lock or combination lock!
+1. 选择位置：找一个平坦、隐蔽的地方作为你的基地入口。
+2.挖一个入口：用铲子为入口挖一个洞。
+3. 安装 6 根木头、99 个钉子、40 块木板。
+4. 将斧头拖到手上并建造第 1 层地下舱口。
 
+2 级：
 
+1. 在地下基地内将铲子拖到手中，查看地板/墙壁和“升级基地”。
+2. 安装 6 根木头、99 个钉子、20 个金属板和 40 块木板。
+3. 将斧头放在手中，将基地“升级”至2级。
 
+3级：
 
-
-How to build your Underground Base:
-
-Level 1:
-
-1. Choose Location: Find a flat, hidden spot for your base entrance.
-2. Dig an Entrance: Use the shovel to dig a hole for the entrance.
-3. Attach 6 wooden logs, 99 nails, 40 planks.
-4. Drag a hatchet to hands and build level 1 underground hatch.
-
-Level 2:
-
-1. Drag a shovel to hands while inside your underground base, look at the floor/wall and "Upgrade Base".
-2. Attach 6 wooden logs, 99 nails, 20 sheet metal, and 40 planks.
-3. Put hatchet in your hands and "upgrade Base" to level 2.
-
-Level 3:
-
-1. Drag a shovel to hands while inside your underground base, look at the floor/wall and "Upgrade Base".
-2. Attach 6 wooden logs, 99 nails, 20 sheet metal, and 5 concrete blocks.
-3. Put hatchet in your hands and "upgrade Base" to level 3.
+1. 在地下基地内将铲子拖到手中，查看地板/墙壁和“升级基地”。
+2. 安装 6 根木头、99 个钉子、20 个金属板和 5 个混凝土块。
+3. 将斧头放在手中，将基地“升级”至3级。

@@ -1,42 +1,18 @@
-Overview:
-The project's goal is to give a realistic feeling of the enviroment enclosing around the dead: Intended for more immersion in cold servers, primarily using the Namalsk Island and Namalsk Survival mods.
+概述：
+该项目的目标是给人一种围绕死者周围环境的真实感觉：旨在更多地沉浸在寒冷的服务器中，主要使用纳马尔斯克岛和纳马尔斯克生存模组。
 
-This mod adds frost and snow to dead players after they would normally decay. A dead body freezes depening on the surrounding temperature and will be covered in snow depening on the location.
-Once a body is frozen, it can no longer be looted or skinned. You could try warming it up though.
+这个模组在死亡玩家通常会腐烂后为他们添加霜和雪。 根据周围的温度，尸体会被冻结，根据位置，尸体会被雪覆盖。
+一旦尸体被冻结，就无法再对其进行掠夺或剥皮。 不过你可以尝试加热一下。
 
-Features:
-30 new character frost textures, applied when a body decays in freezing temperatures.
-A new snowy textures for clothing, applied when a body freezes on snow or ice.
-Frozen bodies can not be looted or skinned, but can be buried.
-Frozen bodies will last much longer than normal bodies and the time depends on the temperature.
-Server installation:
-Subscribe to this mod on the Steam Workshop.
-Add the mod to the server starting parameter "-mod=@FrozenCorpses;"
-Copy the "Nate.bikey" into your servers "keys" folder
-Set the optional server configs - guide below
-Enjoy!
+特征：
+30 个新角色霜冻纹理，当尸体在冰冻温度下腐烂时应用。
+当身体在雪或冰上结冰时应用新的雪地服装纹理。
+冰冻尸体不能被掠夺或剥皮，但可以掩埋。
+冰冻尸体的保存时间比正常尸体要长得多，时间取决于温度。
 
-
-The following values can optionally be added to your mpmissions/your.mission/db/globals.xml:
-
-<var name="FreezingDeadPlayerTemperature" type="1" value="0.0"/>
-This is the ambient temperature in °C at which player corpses freeze. Default value is "0.0".
-If you do not want every corpse on regular namalsk to freeze, I recommend setting this to around -8.0 to -11.0 (this depends on your server settings/temperature).
-
-<var name="CleanupLifetimeFrozenPlayer" type="0" value="600"/>
-This is the lifetime of frozen corpses (in seconds) per degree below the configured freezing point. Default value is "600".
-When using the default freezing point of 0.0 and a player that decayed at -10°C, the frozen body will last 6000s (=100min).
-I recommend setting this a lot lower for high population (>30) namalsk servers.
-The "CleanupLifetimeDeadPlayer" value still applies, bodies will freeze after the normal lifetime (after 70% of that lifetime to be exact).
-
-<var name="UseWinterChernarusLivonia" type="0" value="1"/>
-If you are using the 'Winter Chernarus' or 'Winter Livonia' mods, add this line. Otherwise the snowy clothing texture will not get applied.
-
-
-Creators:
-Nate: Scripting
-Kaffeina: Textures
-
-Promotion:
-Have any questions, suggestions or found a bug? Join our Discord or drop a message below!
-Kaffeina's Workshop Discord: https://discord.gg/3AYpt69afq
+服务器安装：
+在 Steam 创意工坊上订阅此模组。
+将mod添加到服务器启动参数“-mod=@FrozenCorpses;”
+将“Nate.bikey”复制到服务器的“keys”文件夹中
+设置可选的服务器配置 - 下面的指南
+享受！

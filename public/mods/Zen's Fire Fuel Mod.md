@@ -1,27 +1,13 @@
-What Is This?
+这是什么？
 
-This mod allows players to use gasoline as kindling on fireplaces to start fires.
+该模组允许玩家使用汽油作为壁炉的引火物来生火。
 
-You need at least 1000mL of gasoline (equivalent of a full water bottle), and the fireplace must contain at least one piece of firewood or one short stick.
+你需要至少1000毫升的汽油（相当于一满水瓶），壁炉里必须至少有一根木柴或一根短棍。
 
-Either create a fireplace by combining firewood and a short stick, or pour the gasoline directly onto firewood to create a fuel-soaked fireplace.
+要么通过将木柴和短棍组合起来创建一个壁炉，要么将汽油直接倒在木柴上以创建一个浸透燃料的壁炉。
 
-Once the fire is doused in gasoline it can't be picked up, but you can take the firewood out of it if you need to re-make it somewhere else.
+一旦火被汽油浇灭，它就无法被接起，但如果您需要在其他地方重新生火，您可以将木柴取出。
 
-You can only pour fuel on the fire if it does not contain gasoline already. You can also pour gasoline on a lit fire to make it last longer.
+仅当火中不含汽油时，才可以将燃料倒入火中。 您也可以将汽油倒在点燃的火上，以使其持续更长时间。
 
-It works on all fireplace types - outdoor, indoor, barrels etc.
-
-Installation Instructions:
-
-Install this mod like any other mod - copy it into your server folder and add it to your mods list. It must be run on both server and client. Make sure to copy the .bikey into your server keys.
-
-Repack & Source Code:
-
-You can repack this mod if you like, and do anything else you want with it for that matter. Just keep in mind my future updates won't be applied so make sure to check back for new versions if you notice any bugs. The source code is on my GitHub at www.zenarchist.io
-
-Enjoy!
-
-PS. Check Out My Servers:
-
-If you want to see all of my mods in action check out HardcoreDayZꓸcom!
+它适用于所有类型的壁炉 - 室外、室内、桶式等。

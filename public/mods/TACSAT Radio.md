@@ -1,6 +1,1 @@
-This mod will allow players to transmit across the entire map (50K range), utilizing a handheld military radio. The radio configuration is still vanilla, as it only increases the range... but has an entirely new model, that could accurately utilize satellite conneciviity to communicate.
-
-
-Model obtained via - https://www.cgtrader.com/free-3d-models/military/other/handheld-military-radio
-
-Feel free to unpack and repack into your respective server mods
+该模组将允许玩家使用手持式军用无线电在整个地图（50K 范围）内进行传输。 无线电配置仍然是普通的，因为它只是增加了范围......但有一个全新的模型，可以准确地利用卫星连接进行通信。

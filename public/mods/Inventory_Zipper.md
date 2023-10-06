@@ -1,18 +1,2 @@
-Inventory_Zipper
-[Client Side]
-[1.21 OK]
-
-If you like this mod :)
-
-
-Originally created by => ViperWolf
-Enhanced by => R0Lu
-
-WORK IN PROGRESS
-
-
-This mod plays different random zipper noises from your character when opening / closing your inventory.
-For now, only you can heard it, other players, and zombies also in next updates
-
-
-Repack allowed if you credits us & add the original link into description,but be aware that this mod will keep being updated so it's not advised for now. Just use it :)
+当打开/关闭你的库存时，这个模组会从你的角色中播放不同的随机拉链噪音。
+目前，只有你可以听到它，其他玩家和僵尸也会在接下来的更新中听到

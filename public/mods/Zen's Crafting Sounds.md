@@ -1,13 +1,5 @@
-What Is This?
+这是什么？
 
-This mod adds 20+ new crafting and action sounds to the game.
+该模组为游戏添加了 20 多种新的制作和动作声音。
 
-In a recent DayZ update the devs added a new can opening sound when opening beans and other canned foods, so I hijacked that new feature to add a bunch of new recipe sounds.
-
-Watch the YouTube video attached to this workshop publication to see a few examples.
-
-Installation Instructions:
-
-Install this mod like any other mod - copy it into your server folder and add it to your mods list. Make sure to copy the .bikey into your server keys if you're not using a server management tool like OmegaManager which does that automatically.
-
-This mod must be installed on both the server & client.
+在最近的 DayZ 更新中，开发人员在打开豆子和其他罐头食品时添加了新的开罐声音，因此我劫持了该新功能来添加一堆新的食谱声音。

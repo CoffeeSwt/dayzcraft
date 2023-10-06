@@ -1,31 +1,11 @@
-What Is This?
+这是什么？
 
-This mod adds the ability to pack tents into a backpack to wear on the player's back for nomads, hermits, hunters and RPers.
+该模组增加了将帐篷装入背包中的功能，供游牧民族、隐士、猎人和 RP 玩家背在背上。
 
-Basically this is like my Large Tent Backpack mod, except with this mod you can pack any tent into the bag instead of just the Large Tent - and take your home with you! Who said survivors can't be dreamers?
+基本上，这就像我的大帐篷背包模组，只不过有了这个模组，您可以将任何帐篷装入包中，而不仅仅是大帐篷 - 并带您回家！ 谁说幸存者不能成为梦想家？
 
-To pack a tent into a backpack just hold the tent bag in your hands and look at any packed tent. To unpack a tent, hold the bag in your hands. The tent bags spawn into the world like any other bag.
+要将帐篷装入背包，只需将帐篷袋握在手中，然后查看任何包装好的帐篷即可。 打开帐篷时，请将袋子握在手中。 帐篷袋像其他袋子一样诞生。
 
-You can only turn packed tents into backpacks, and to remain balanced (and because I couldn't figure out how to add it) the tent bag has no cargo slots - but it does contain a Tripod and Camo Net attachment so you can bring your camp with you as well. The bag will add the weight of the tent + attachments, so don't expect to run very fast if you're carring a large tent.
+你只能把打包的帐篷变成背包，为了保持平衡（因为我不知道如何添加它），帐篷包没有货位 - 但它确实包含一个三脚架和迷彩网附件，这样你就可以带着你的 也和你一起露营。 袋子会增加帐篷和附件的重量，因此如果您携带大帐篷，不要指望跑得很快。
 
-This mod is not perfect and this is a very hacky way to add this functionality and there are some minor animation bugs when equipping the bag onto your back, but after testing for several weeks on my personal servers I haven't encountered any major issues and feel comfortable releasing this publicly for other servers to enjoy.
-
-Installation Instructions:
-
-Install this mod like any other mod - copy it into your server's root directory, add it to your launch parameters, and make sure to copy the .bikey into your server keys.
-
-Don't forget to add the types.xml entries and modify your quantities & camo types according to your server (there are winter/desert/camo variants etc).
-
-This mod must be installed on both the server & client.
-
-NOTE: This mod is NOT compatible with the Large Tent Bags mod and this mod will conflict with my Large Tent Bag mod. Only run one or the other, not both.
-
-Repack & Source Code:
-
-You can repack this mod if you like, and do anything else you want with it for that matter. The source code for this mod (and all my mods) is on my GitHub at www.zenarchist.io
-
-Enjoy!
-
-PS. Check Out My Servers:
-
-If you want to see all of my mods in action check out HardcoreDayZꓸcom!
+这个模组并不完美，这是添加此功能的一种非常老套的方式，并且在将包装备到背上时存在一些小动画错误，但在我的个人服务器上测试了几周后，我没有遇到任何重大问题，并且 请放心公开发布此内容以供其他服务器享用。

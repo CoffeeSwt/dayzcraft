@@ -1,151 +1,151 @@
-This is an itempack adding a plethora of new items to DayZ, all models and textures are made by myself excluding: sizla rolling papers and the brain model.
+这是一个为DayZ添加了大量新物品的物品包，所有模型和纹理都是我自己制作的，不包括：sizla卷纸和大脑模型。
 
-Thanks to tteett for the recent fixes.
-Thanks to Jest, Jon Don Juan,michaeldcullen , Helkhiana, NotaBanana, Hop, Baroness and many more for helping out.
+感谢 tteett 最近的修复。
+感谢 Jest、Jon Don Juan、michaeldcullen、Helkhiana、NotaBanana、Hop、Baroness 等人的帮助。
 
-Excuse any bugs that you may find, I will try to fix all in due time.
+请原谅您可能发现的任何错误，我会尽力在适当的时候修复所有错误。
 
-Items:
+项目：
 
-Grenades:
+手榴弹：
 
-Stielhandgranate
-Dynamitestick
-Decoy grenade
+斯蒂尔汉德格拉纳特
+炸药棒
+诱饵手榴弹
 
-Firearms:
+枪支：
 
-Walther gewehr43 with mag and attachments (7.62 39)
-Cs5 Mcmillan with mag and buttstock (.308) (attachments m4, currently takes m4 rail to attach universal light and atlas bipod, huntingoptics + m4 optics )
-Nagant1895 (Waiting for revolver animations)
-Izh54
-Diana model 27 (silent to zombies 22. cal)
+Walther gewehr43 带弹匣和附件 (7.62 39)
+带弹匣和枪托的 Cs5 Mcmillan (.308)（附件 m4，目前采用 m4 导轨来连接通用灯和 Atlas 两脚架、狩猎光学 + m4 光学）
+Nagant1895（等待左轮手枪动画）
+伊兹54
+戴安娜型号 27（对僵尸保持沉默 22.cal）
 
-Bags:
+包：
 
-Jääkäri backpack (2 variations, one with side pouches and one without)
-Colors: brown, tan, black, camo
-attachments: canteen, walkietalkie, flashlight, chemlight, cooking pot.
+Jääkäri 背包（2 种款式，一种带侧袋，一种不带侧袋）
+颜色：棕色、棕褐色、黑色、迷彩
+附件：食堂、对讲机、手电筒、化学灯、炊具。
 
-6B38 Raidbackpack
-Colors: camo, camo LETO, black, snow
-attachments: ammobox, canteen, platecarrier pouches, chemlight, flashlight, walkietalkie, rifle
+6B38 突袭背包
+颜色：迷彩、迷彩 LETO、黑色、雪色
+附件：弹药箱、水壶、板载袋、化学灯、手电筒、对讲机、步枪
 
-Rifleholster
-Colors: black, camo, ucp, ttsko, snow, tan
-attachment: rifle, platecarrier pouches
+枪套
+颜色：黑色、迷彩、ucp、ttsko、雪色、棕褐色
+附件：步枪、板载袋
 
-Oxygentankrig (no function atm)
-attachments: mask, walkietalkie, flashlight, canteen, waterproofbag.
+Oxygentankrig（无功能 atm）
+附件：面罩、对讲机、手电筒、水壶、防水袋。
 
-Carrier-rig
-attachments: Backpack, protectorcase, flashlight, waterproofbag, Chemlight, pot.
+运载装置
+附件：背包、保护套、手电筒、防水袋、化学灯、锅。
 
-Hikingbag
-Colors: camo, red, blue, green, yellow, black, snow, meow, pink
-attachments: medium tent, camonet, pot, cookingtripod,rifle, beartrap, firstaidkit, canteen, compass, binoculars, oillamp/gascooker, walkietalkie, flashlight, waterproofbag.
+登山包
+颜色：迷彩、红色、蓝色、绿色、黄色、黑色、雪花、喵星人、粉色
+附件：中型帐篷、卡莫内特、锅、烹饪三脚架、步枪、护手套、急救箱、食堂、指南针、双筒望远镜、油灯/燃气灶、对讲机、手电筒、防水袋。
 
-Simplebackpack
-Colors: camo, blue, green, red/pink, red/yellow
-attachments: canteen, flashlight, waterproofbag, protectorcase, teddybear.
+简单背包
+颜色：迷彩、蓝色、绿色、红色/粉色、红色/黄色
+附件：水壶、手电筒、防水袋、保护套、泰迪熊。
 
-Fannypack
-Colors: pink, black, multi,camo,
-attachments: pistolholster, machete, hatchet.
+腰包
+颜色：粉色、黑色、多色、迷彩、
+附件：手枪套、砍刀、斧头。
 
-other:
-Bearhead headwear
-furcowl (bear and wolf)
-Nbc longcoat
-Woodaxe
-Human head
-Sleepingbag (red, green, blue, yellow)
-Meleesling (leather brown, black)
-Riflesling (leather brown, black)
-Baseballbat with barbedwire
-Dutchoven
-Thermos
-Cane
-Tophat
-Castiron pan
-Sushi knife
-Baseballbat with circularsaw attached
-Woodenhammer
-Cricketbat
-A few scopes
-Tripwire trap
-Shawl (black, tan, floral, palestini, red, templar)
-Poncho (black, camonet ghillie)
-Dappervest
-TF3 SF Tacticalvest
-Bikervest
-kv 5 Propanetank
-Weldinggoggles
-Dollmask
-Leatherwallet(only takes rubles) (fixed)
-Bandana
-Jester hat
-Hardigg storage case (attachment 2 guns)
-Hardigg storage case v2 (attachment 2 guns)
-Zenitco pt3 AK buttstock
-Guitar
-Teddyhead mask
-Ballgrill (fuel: gascanister)
-Bowieknife
-strawhat
-gunwall kit, colors: wood and steel
-Gunwall, colors: wood and steel (recipe: 10 woodenplanks + 5 metalplate)
-makeshiftshelter (recipe: Sticks + longstick)
-hannibal mask
-shovel
-sizla rollingpapers
-Cigarette
-Cigar
-Joint
-vesuri (melee weapon)
-sherlock pipe
-ketchup
-vinegar
-Lennon glasses, Colors: pink, blue, yellow, black, white, galaxy
-Brain
-Clawhammer
-Katana
-Logcabin
-M52 helmet
-Maglite
-Airam flashlight
-Oillamp (fuel:gascanister)
-Jar of pickles
-Swiss army knife (can be used for various things, knife actions and lockpick)
-Scythe
-Stalker gasmask
-Wonderbread (can be eaten as is or crafted into sandwiches with any food item)
-Sandwich
-Zippo (can be used to light things on fire or as a lightsource)
+其他：
+熊头头饰
+毛皮（熊和狼）
+NBC 长外套
+木斧
+人头
+睡袋（红、绿、蓝、黄）
+碎石带（皮革棕色、黑色）
+步枪枪带（皮革棕色、黑色）
+带刺铁丝网的棒球棒
+荷兰烤箱
+热水瓶
+甘蔗
+礼帽
+铸铁锅
+寿司刀
+带圆锯的棒球棒
+木锤
+板球拍
+几个范围
+绊网陷阱
+披肩（黑色、棕褐色、花卉色、巴勒斯坦色、红色、圣堂武士）
+斗篷（黑色，卡莫奈吉利）
+衣冠楚楚
+TF3 SF 战术背心
+自行车卫士
+kv 5 丙烷罐
+焊接护目镜
+娃娃面具
+皮革钱包（只需要卢布）（固定）
+头巾
+小丑帽
+Hardigg 储物箱（可装 2 支枪）
+Hardigg 储物箱 v2（附件 2 支枪）
+Zenitco pt3 AK 枪托
+吉他
+泰迪熊面具
+球烧烤炉（燃料：燃气罐）
+鲍伊刀
+草帽
+炮墙套件，颜色：木材和钢
+枪墙，颜色：木材和钢材（配方：10 块木板 + 5 块金属板）
+临时避难所（配方：棍子+长棍）
+汉尼拔面具
+铲
+西兹拉卷纸
+香烟
+雪茄
+联合的
+维苏里（近战武器）
+夏洛克管道
+番茄酱
+醋
+列侬眼镜，颜色：粉色、蓝色、黄色、黑色、白色、银河
+脑
+爪锤
+武士刀
+木屋
+M52头盔
+麦格莱特
+艾拉姆手电筒
+油灯（燃料：煤气罐）
+一罐泡菜
+瑞士军刀（可用于多种用途，刀动作和开锁）
+镰
+潜行者防毒面具
+Wonderbread（可以直接食用或与任何食物一起制作成三明治）
+三明治
+Zippo（可用于点燃物品或作为光源）
 
-Crafting recipes:
+制作食谱：
 
-10 planks + 5 metalplates : Gunwall wood&metal
-sticks + longsticks : Makeshifttent 1&2
-cannabis + zizla : Joint
-baseballbat + barbwire : Barbwire baseballbat
-Camonet + knife : poncho ghillie
-sodacan + bullet : decoygrenade
-Jests wonderbread + any food item : sandwich
-Stick + metalwire : tripwiretrap (can attach a grenade)
-Wolfpelt + knife : Wolf-fur cowl
-Bearpelt + knife : Bearfur cowl
+10 块木板 + 5 块金属板：Gunwall 木材和金属
+棍子 + 长棍：临时帐篷 1&2
+大麻 + zizla : 联合
+棒球棒 + 倒钩线 : 倒钩线棒球棒
+卡莫奈 + 刀：雨披吉利
+汽水+子弹：诱饵手榴弹
+Jests Wonderbread + 任何食物：三明治
+棍子+金属线：绊线陷阱（可以附加手榴弹）
+狼皮+小刀：狼毛兜帽
+熊皮+小刀：熊毛兜帽
 
-For this error:
-Can't compile "World" script module!
-scripts/4_World/plugins\pluginbase\plugindeveloper.c(306): Can't find variable 'MAGAZINE3'
+对于这个错误：
+无法编译“World”脚本模块！
+scripts/4_World/plugins\pluginbase\plugindeveloper.c(306)：找不到变量“MAGAZINE3”
 
-usually means you have a mod conflict, fidovs pack does not work with this mod.
+通常意味着您有 mod 冲突，fidovs pack 不适用于此 mod。
 
-Repacking is not allowed.
+不允许重新包装。
 
-Support me and buy my game.
+支持我并购买我的游戏。
 https://munghard.itch.io/in-the-bush
 
-Become a patron to support the mod and keep it alive!
+成为赞助人来支持该模组并使其保持活力！
 https://www.patreon.com/Munghard

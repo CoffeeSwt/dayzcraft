@@ -1,29 +1,25 @@
-Ear Plugs allow you to lower and toggle your sound effect volume so you can hear VOIP easier. Perfect for driving, or flying.
+耳塞可让您降低和切换音效音量，以便您可以更轻松地听到 VOIP。 非常适合驾驶或飞行。
 
-What does it do?
-Ear Plugs allows you to lower your volume via a rebindable key to a custom set level which you can then toggle on and off. While EarPlugs is active there will be a small icon on the left side of the screen to let you know that your sound level is being modified. When changing the audio level up and down a new number showing the audio value (In percent) will be displayed before fading out - The default audio level reduces all sound effects by 80%.
+它有什么作用？
+耳塞允许您通过可重新绑定的按键将音量降低到自定义设置级别，然后您可以打开和关闭该级别。 当耳塞处于活动状态时，屏幕左侧会出现一个小图标，让您知道您的音量正在被修改。 当上下更改音频级别时，将在淡出之前显示一个显示音频值（以百分比表示）的新数字 - 默认音频级别会将所有声音效果降低 80%。
 
-Server Owner Instructions
-As with most mods install instructions follow the same patten.
-- Copy the mod from !Workshop to DayzServer root.
-- Copy the CooltrainV3.bikey into your server keys folder.
-- Add the @Ear-Plugs to your server launch parameter.
+服务器所有者说明
+与大多数 mods 一样，安装说明遵循相同的模式。
+- 将 mod 从 !Workshop 复制到 DayzServer 根目录。
+- 将 CooltrainV3.bikey 复制到您的服务器密钥文件夹中。
+- 将@Ear-Plugs 添加到您的服务器启动参数中。
 
-What version does it require?
-Working on the latest 1.21 stable version
+需要什么版本？
+正在开发最新的 1.21 稳定版本
 
-What are the keybindings?
-The defualt keybindings are:
+按键绑定是什么？
+默认的键绑定是：
 
-Toggle Earplugs - N
-Increase Mute Volume - Equals (=)
-Decrease Mute Volume - Minus (-)
+切换耳塞 - N
+增加静音音量 - 等于 (=)
+降低静音音量 - 减号 (-)
 
-You can rebind your keys ingame.
+您可以在游戏中重新绑定按键。
 
-Is this compatible with Expansion?
-Expansion has its own version of Earplugs you can use, though if you prefer this version - yes its compatible.
-
-
-Can I repack this mod? Can I monetize earplugs?
-Copyright 2023 Cooltrain | This mod is not allowed to be unpacked, repacked, or reuploaded in any other configuration. You are not allowed to monetized this mod unless your mod is an Approved Monetized Server[www.bohemia.net]. And access or use of this mod is not part of the monetization.
+这与扩展兼容吗？
+Expansion 有自己的耳塞版本，您可以使用，但如果您更喜欢这个版本 - 是的，它是兼容的。

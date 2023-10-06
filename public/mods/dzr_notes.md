@@ -1,40 +1,19 @@
-RU
-Атмосферные записки. Пишутся ручкой на бумаге, выдаются в стартовом луте, редактируются по FTP.
+沉浸式笔记。 用笔写在纸上，可以作为起始装备并通过 FTP 进行编辑。
 
-EN
-Immersive notes. Written on a paper with a pen, can be given as starting gear and edited by FTP.
+添加了三色管理笔来创建彩色笔记。 还有一支香草设计的钢笔和笔记用于其他 RP 用途。
+添加了5种文件夹类型。 可存放 20 张纸质物品 + 4 支笔。 还可以存储地图。
+用两张纸制作一个简单的纸质文件夹。
+管理围栏不会生成。
+在物体和墙壁上贴上注释。
+所有笔记都记录到“<server_profile>\DZR\dzr_notes\log”文件夹中（安装后，写一条笔记创建文件夹，第一个笔记不保存）
+管理员可以将注释固定为只读状态并在服务器上编辑文本，而无需加入服务器。
+将带有自定义文本的注释添加到玩家的起始装备中。
 
-EN
-Added three colored admin pens to create colored notes. There is also a vanilla designed pen and note for other RP purpoeses.
-Added 5 types of file folders. It can store 20 paper items + 4 pens. Map can also be stored.
-Craft a simple paper folder from 2 papers.
-Admin pens are not spawning.
-Place notes on objects and walls.
-All notes are logged into "<server_profile>\DZR\dzr_notes\log" folder (after installation, write a note to create the folders, the first note is not saved)
-Admins can pin notes to read-only state and edit texts on the server without joining server.
-Add a note with custom text to the starting gear of your players.
-
-RU
-Добавлены три цветных админских ручки для создания цветных записок. Так же для РП есть админская ручка и записка с ванильным дизайном.
-Добавлена папка для бумаг 5 видов. В ней можно хранить только 20 листов бумаги и 4 ручки. Карта тоже считается бумагой.
-Крафт папки для бумаг из двух листов бумаги.
-Админских ручек в спавне нет.
-Можно размещать записки на стенах и объектах.
-Все записки сохраняются в папку "<server profile>\DZR\dzr_notes\log" (после установки напишите записку, чтобы создались все эти папки, первая записка не сохраняется)
-Админы могут закрепить записки, чтобы их нельзя было редактировать или срывать. Редактировать тексты можно без входа в игру прямо на сервере.
-Можно добавить записку с текстом игроку в стартовое снаряжение.
+兼容 \ СОВМЕСТИМО С
+AMS 额外医疗用品
+烧钱和文件
+沉浸式放置
 
 
-COMPATIBLE WITH \ СОВМЕСТИМО С
-AMS AdditionalMedicSupplies
-BurnMoneyAndDocuments
-Immersive Placing
-
-
-Experimental Version
+实验版
 https://steamcommunity.com/sharedfiles/filedetails/?id=2819208426
-
-
-Разрешения: Всё разрешено со ссылкой
-Все моды DZR открыты для любого использования, перепаковка и т.п., чтобы наше DayZ сообщество развивалось и было больше разных проектов и других модов. Только открытая разработка сделает игру бессмертной.
-Единственное условие: оставьте ссылку на этот оригинальный мод так, чтобы другие тоже смогли найти этот мод.

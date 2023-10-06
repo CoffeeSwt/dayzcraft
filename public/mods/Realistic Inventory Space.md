@@ -1,10 +1,10 @@
-Why does a T-Shirt that does not have pockets have 12 slots???
-It doesn't make sens.
+为什么没有口袋的T恤有12个插槽？？？
+这没有意义。
 
-Realistic Inventory Space is a simple mod that reduces the ammount of slots of pretty much every tops, pants and backpacks in the game.
-It is also inspired a lot by how inventory slots were in 0.62, as some of the clothes now have a more "horizontal" layout (like the Riders Jacket for exemple).
+现实库存空间是一个简单的模组，可以减少游戏中几乎所有上衣、裤子和背包的插槽数量。
+它还受到了 0.62 中库存槽位的很大启发，因为一些衣服现在具有更“水平”的布局（例如骑士夹克）。
 
-I also changed the size of the Gas Canisters, as well as the Gas Stove.
-They were all the same size and required some balancing.
+我还改变了煤气罐和煤气炉的尺寸。
+它们的大小相同，需要一些平衡。
 
-It might need further balancing, if you have any feedback, leave a comment!
+可能需要进一步平衡，如果您有任何反馈，请发表评论！

@@ -1,38 +1,20 @@
-What does it do?
-Disease Injectors is a small mod that adds a total of 8 new medical auto-injectors. 4 which add disease and 4 which cure them.
+它有什么作用？
+疾病注射器是一个小型模组，总共添加了 8 个新的医疗自动注射器。 4 种增加疾病，4 种治愈疾病。
 
-What does it include?
--Infection and cure injectors for Kuru.
--Infection and cure injectors for Salmonella.
--Infection and cure injectors for Influenza.
--Infection and cure injectors for Cholera.
+它包括什么？
+-库鲁感染和治疗注射器。
+-沙门氏菌感染和治疗注射器。
+-流感感染和治疗注射器。
+-霍乱感染和治疗注射器。
 
-Item Class Names
-Example Types.xml can be found within the mod. Config to add whichever injectors you want. (I.e Only cures)
+疾病注射器
+库鲁注射器
+沙门氏菌注射器
+流感注射器
+霍乱注射器
 
-Disease Injectors
-KuruInjector
-SalmonellaInjector
-InfluenzaInjector
-CholeraInjector
-
-Disease Cures
-KuruInjectorCure
-SalmonellaInjectorCure
-InfluenzaInjectorCure
-CholeraInjectorCure
-
-Server Owner Instructions
-As with most mods install instructions follow the same patten.
-- Copy the mod from !Workshop to DayzServer root.
-- Copy the cooltrain.bikey into your server keys folder.
-- Add the @Disease Injectors to your server launch parameter.
-- Merge/add the classnames/types.xml
-
-What version does it require?
-Working on the latest 1.15 stable version | I always do my best to have my mods updated as soon as an update or issue is found.
-
-Can I repack this mod?
-Permission is not granted to reupload to steam or anywhere else, unpack or repack my work | Copyright 2021 Cooltrain
-
-Rate, Favorite & Donate
+疾病治疗
+库鲁注射器Cure
+沙门氏菌注射器治疗
+流感注射器治疗
+霍乱注射器治疗

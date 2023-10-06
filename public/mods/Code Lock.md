@@ -1,2 +1,2 @@
-Introduction:
-Code Lock is aimed at simplifying the base combination lock. No longer will you have to scramble to lock a gate that gives access to your base. There are also tons of configurable settings for this mod including logs, raid times, raid settings, client rate limiting and more!
+介绍：
+密码锁旨在简化基础密码锁。 您不再需要费力地锁上通往基地的大门。 该模组还有大量可配置的设置，包括日志、突袭时间、突袭设置、客户端速率限制等等！

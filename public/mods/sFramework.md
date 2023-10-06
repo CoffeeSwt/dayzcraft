@@ -1,13 +1,13 @@
-Information
-sFramework is the core of the sUDE project.
+信息
+sFramework是sUDE项目的核心。
 
-It ships many features and utilities used and/or implemented by sUDE modules :
-Advanced PostProcessing
-Cameras Overlays
-Game and User configuration interface
-Helper classes and utilities for developing and debugging
-Improvements to base game classes
-more...
+它提供了 sUDE 模块使用和/或实现的许多功能和实用程序：
+高级后处理
+相机覆盖
+游戏和用户配置界面
+用于开发和调试的辅助类和实用程序
+基础游戏类的改进
+更多的...
 
-PostProcessing effects
-sFramework ships a centralized post processing effects manager, with the goal of allowing multiple requests of the same effects, without hardcoding them.
+后处理效果
+sFramework 提供了一个集中式后处理效果管理器，其目标是允许对相同效果进行多个请求，而无需对它们进行硬编码。
