@@ -12,7 +12,7 @@
       "name": "BuilderItems",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1565871491",
       "active": true,
-      "description": "",
+      "description": "服务器配置用模组",
       "tips": "",
       "images": []
     },
@@ -20,7 +20,7 @@
       "name": "Code Lock",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1646187754",
       "active": true,
-      "description": "",
+      "description": "密码锁",
       "tips": "",
       "images": []
     },
@@ -28,7 +28,7 @@
       "name": "GoreZ",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1648967877",
       "active": true,
-      "description": "",
+      "description": "增加了更多的血液效果",
       "tips": "",
       "images": []
     },
@@ -36,7 +36,7 @@
       "name": "ItemSizeTweak",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1682203904",
       "active": true,
-      "description": "",
+      "description": "让一些物体占的格子变小",
       "tips": "",
       "images": []
     },
@@ -44,7 +44,7 @@
       "name": "Disease Injectors",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1723938994",
       "active": true,
-      "description": "",
+      "description": "新的疾病和医疗",
       "tips": "",
       "images": []
     },
@@ -52,7 +52,7 @@
       "name": "MunghardsItempack",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1734713776",
       "active": true,
-      "description": "",
+      "description": "加了更多的武器装备以及新的合成",
       "tips": "",
       "images": []
     },
@@ -60,7 +60,7 @@
       "name": "UsefulLights",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1785823600",
       "active": true,
-      "description": "",
+      "description": "增加了照明物品的照明半径",
       "tips": "",
       "images": []
     },
@@ -68,7 +68,7 @@
       "name": "WindstridesClothingPack",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1797720064",
       "active": true,
-      "description": "",
+      "description": "添加了很多的衣服斗篷等",
       "tips": "",
       "images": []
     },
@@ -76,7 +76,7 @@
       "name": "Ear-Plugs",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788",
       "active": true,
-      "description": "",
+      "description": "按N键可以静音",
       "tips": "",
       "images": []
     },
@@ -84,7 +84,7 @@
       "name": "TACSAT Radio",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1826378669",
       "active": true,
-      "description": "",
+      "description": "一个新的无线电，可以半径50km通讯",
       "tips": "",
       "images": []
     },
@@ -92,7 +92,7 @@
       "name": "VPPAdminTools",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1828439124",
       "active": true,
-      "description": "",
+      "description": "管理员工具",
       "tips": "",
       "images": []
     },
@@ -100,7 +100,7 @@
       "name": "LessLessAnimalMeat",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1891485178",
       "active": true,
-      "description": "",
+      "description": "动物的肉更少",
       "tips": "",
       "images": []
     },
@@ -108,7 +108,7 @@
       "name": "Plus200_Recipes",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1924466578",
       "active": true,
-      "description": "",
+      "description": "大量新的合成配方（有部分失效）",
       "tips": "",
       "images": []
     },
@@ -116,7 +116,7 @@
       "name": "PvZmoD_CustomisableZombies",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2051775667",
       "active": true,
-      "description": "",
+      "description": "加强丧尸，丧尸有很多新特性",
       "tips": "",
       "images": []
     },
@@ -124,7 +124,7 @@
       "name": "GearPDA",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2124309453",
       "active": true,
-      "description": "",
+      "description": "加了一个新的聊天通讯工具PDA",
       "tips": "",
       "images": []
     },
@@ -132,7 +132,7 @@
       "name": "CorpseSearching",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2160147503",
       "active": true,
-      "description": "",
+      "description": "搜尸",
       "tips": "",
       "images": []
     },
@@ -140,7 +140,7 @@
       "name": "GarbageSearch",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2208230845",
       "active": true,
-      "description": "",
+      "description": "搜垃圾堆",
       "tips": "",
       "images": []
     },
@@ -148,7 +148,7 @@
       "name": "Namalsk Island",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2289456201",
       "active": true,
-      "description": "",
+      "description": "冰岛地图",
       "tips": "",
       "images": []
     },
@@ -156,7 +156,7 @@
       "name": "Namalsk Survival",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2289461232",
       "active": true,
-      "description": "",
+      "description": "冰岛生存",
       "tips": "",
       "images": []
     },
@@ -164,7 +164,7 @@
       "name": "SnowOverhaul",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2310047969",
       "active": true,
-      "description": "",
+      "description": "环境里加入了更多的雪",
       "tips": "",
       "images": []
     },
@@ -172,7 +172,7 @@
       "name": "Namalsk_Overhaul",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2319528529",
       "active": true,
-      "description": "",
+      "description": "加入了38个新的探索地点，大部分都在冰盖",
       "tips": "",
       "images": []
     },
@@ -180,7 +180,7 @@
       "name": "InventoryInCar",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2361330944",
       "active": true,
-      "description": "",
+      "description": "在车上能打开背包",
       "tips": "",
       "images": []
     },
@@ -188,7 +188,7 @@
       "name": "FrozenCorpses",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2397654753",
       "active": true,
-      "description": "",
+      "description": "尸体会被冰冻住",
       "tips": "",
       "images": []
     },
@@ -196,7 +196,7 @@
       "name": "Inventory Move Sounds",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2444247391",
       "active": true,
-      "description": "",
+      "description": "添加了移动物品的音效",
       "tips": "",
       "images": []
     },
@@ -204,7 +204,7 @@
       "name": "Mag Obfuscation",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2449234595",
       "active": true,
-      "description": "",
+      "description": "取消掉确切的子弹数",
       "tips": "",
       "images": []
     },
@@ -212,7 +212,7 @@
       "name": "Location Text",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2486237187",
       "active": true,
-      "description": "",
+      "description": "进入城镇和村庄时添加一个小通知",
       "tips": "",
       "images": []
     },
@@ -220,7 +220,7 @@
       "name": "Flying Birds!",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2501812949",
       "active": true,
-      "description": "",
+      "description": "玩家和动物尸体上方会有乌鸦（室内没有）",
       "tips": "",
       "images": []
     },
@@ -228,7 +228,7 @@
       "name": "Vanilla++ Tanning & Coloring",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2503521333",
       "active": true,
-      "description": "",
+      "description": "加入了更多的皮革物品",
       "tips": "",
       "images": []
     },
@@ -236,7 +236,7 @@
       "name": "Immersive Placing",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2521460498",
       "active": true,
-      "description": "",
+      "description": "沉浸放置",
       "tips": "",
       "images": []
     },
@@ -244,7 +244,7 @@
       "name": "Realistic Inventory Space",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2531498490",
       "active": true,
-      "description": "",
+      "description": "减少游戏中几乎所有上衣、裤子和背包的格子数量",
       "tips": "",
       "images": []
     },
@@ -252,7 +252,7 @@
       "name": "Quadley's Tools and Melee Weapons",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2539592371",
       "active": true,
-      "description": "",
+      "description": "加入了新的近战武器和工具",
       "tips": "",
       "images": []
     },
@@ -260,7 +260,7 @@
       "name": "Dabs Framework",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648",
       "active": true,
-      "description": "",
+      "description": "模组工具",
       "tips": "",
       "images": []
     },
@@ -268,7 +268,7 @@
       "name": "Camping",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2620350105",
       "active": true,
-      "description": "",
+      "description": "加了新的帐篷和睡袋",
       "tips": "",
       "images": []
     },
@@ -276,7 +276,7 @@
       "name": "DZR Rags by hands",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2647375545",
       "active": true,
-      "description": "",
+      "description": "可以空手撕衣服得到布",
       "tips": "",
       "images": []
     },
@@ -284,7 +284,7 @@
       "name": "DZR Simply Extinguish Fire",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2652419746",
       "active": true,
-      "description": "",
+      "description": "可以不用液体灭火",
       "tips": "",
       "images": []
     },
@@ -292,7 +292,7 @@
       "name": "Inventory_Zipper",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2685377915",
       "active": true,
-      "description": "",
+      "description": "打开关闭背包的音效",
       "tips": "",
       "images": []
     },
@@ -300,7 +300,7 @@
       "name": "Sleeping Pills (Diazepam)",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2720891274",
       "active": true,
-      "description": "",
+      "description": "安眠药，不能直接吃",
       "tips": "",
       "images": []
     },
@@ -308,7 +308,7 @@
       "name": "dzr_notes",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2752192852",
       "active": true,
-      "description": "",
+      "description": "加了笔，书，可以写字留字条",
       "tips": "",
       "images": []
     },
@@ -316,7 +316,7 @@
       "name": "ZenLeftovers",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793619401",
       "active": true,
-      "description": "",
+      "description": "食用原版包装食品和医疗物品后掉落垃圾",
       "tips": "",
       "images": []
     },
@@ -324,7 +324,7 @@
       "name": "ZenVirus",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2822531337",
       "active": true,
-      "description": "",
+      "description": "僵尸病毒",
       "tips": "",
       "images": []
     },
@@ -332,7 +332,7 @@
       "name": "ViewInventoryAnimation",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2833363308",
       "active": true,
-      "description": "",
+      "description": "打开背包后人物会有摸自己的动作",
       "tips": "",
       "images": []
     },
@@ -340,7 +340,7 @@
       "name": "SimpleMatch",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2848676009",
       "active": true,
-      "description": "",
+      "description": "火柴可以拿出来，添加了蜡烛",
       "tips": "",
       "images": []
     },
@@ -348,7 +348,7 @@
       "name": "Zen's Combination Locks Mod",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2864891982",
       "active": true,
-      "description": "",
+      "description": "让原版的拨盘锁更好用",
       "tips": "",
       "images": []
     },
@@ -356,7 +356,7 @@
       "name": "Zen's Fire Fuel Mod",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2866862200",
       "active": true,
-      "description": "",
+      "description": "汽油可以当燃料",
       "tips": "",
       "images": []
     },
@@ -364,7 +364,7 @@
       "name": "Sound in unconscious (RELIFE)",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2867662236",
       "active": true,
-      "description": "",
+      "description": "晕倒后有音效声",
       "tips": "",
       "images": []
     },
@@ -372,7 +372,7 @@
       "name": "Zen's Tent Bags",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884638645",
       "active": true,
-      "description": "",
+      "description": "帐篷包，可以装帐篷",
       "tips": "",
       "images": []
     },
@@ -380,7 +380,7 @@
       "name": "Hardcore Backpack",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2891614133",
       "active": true,
-      "description": "",
+      "description": "背包必须拿下来才能用",
       "tips": "",
       "images": []
     },
@@ -388,7 +388,7 @@
       "name": "Give&Take",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2903112334",
       "active": true,
-      "description": "",
+      "description": "给予和索取的动作，默认O键",
       "tips": "",
       "images": []
     },
@@ -396,7 +396,7 @@
       "name": "No eating or drinking with face covered",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2914046904",
       "active": true,
-      "description": "",
+      "description": "脸上有面罩不能吃喝",
       "tips": "",
       "images": []
     },
@@ -404,7 +404,7 @@
       "name": "Zen's Immersive Login",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2924719512",
       "active": true,
-      "description": "",
+      "description": "沉浸式登录",
       "tips": "",
       "images": []
     },
@@ -412,7 +412,7 @@
       "name": "The Last of Us Mutant's",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2942882677",
       "active": true,
-      "description": "",
+      "description": "最后的生还者中的丧尸",
       "tips": "",
       "images": []
     },
@@ -420,7 +420,7 @@
       "name": "Fire Overhaul & Molotov",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2969381819",
       "active": true,
-      "description": "",
+      "description": "伏特加和莫洛托夫，火焰大修",
       "tips": "",
       "images": []
     },
@@ -428,7 +428,7 @@
       "name": "LightObjects",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2981367410",
       "active": true,
-      "description": "",
+      "description": "新的灯具",
       "tips": "",
       "images": []
     },
@@ -436,7 +436,7 @@
       "name": "InediaStamina",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2990236173",
       "active": true,
-      "description": "",
+      "description": "体力精力系统大修",
       "tips": "",
       "images": []
     },
@@ -444,7 +444,7 @@
       "name": "Crocodile",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3013430583",
       "active": true,
-      "description": "",
+      "description": "鳄鱼",
       "tips": "",
       "images": []
     },
@@ -452,7 +452,7 @@
       "name": "Underground Bases",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3029439021",
       "active": true,
-      "description": "",
+      "description": "地下室",
       "tips": "",
       "images": []
     },
@@ -460,7 +460,7 @@
       "name": "sGunplay",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2507204412",
       "active": true,
-      "description": "",
+      "description": "枪械手感动作等大修",
       "tips": "",
       "images": []
     },
@@ -468,7 +468,7 @@
       "name": "sFramework",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2614334381",
       "active": true,
-      "description": "",
+      "description": "前置模组",
       "tips": "",
       "images": []
     },
@@ -476,7 +476,7 @@
       "name": "Zen's Crafting Sounds",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3043440124",
       "active": true,
-      "description": "",
+      "description": "制作合成物品的音效",
       "tips": "",
       "images": []
     }
