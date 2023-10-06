@@ -455,6 +455,30 @@
       "description": "",
       "tips": "",
       "images": []
+    },
+    {
+      "name": "sGunplay",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2507204412",
+      "active": true,
+      "description": "",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "sFramework",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2614334381",
+      "active": true,
+      "description": "",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "Zen's Crafting Sounds",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3043440124",
+      "active": true,
+      "description": "",
+      "tips": "",
+      "images": []
     }
   ]
 }
