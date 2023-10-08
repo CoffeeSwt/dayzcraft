@@ -479,6 +479,22 @@
       "description": "制作合成物品的音效",
       "tips": "",
       "images": []
+    },
+    {
+      "name": "SkyZ - Skybox Overhaul",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2536780687",
+      "active": true,
+      "description": "天空大修",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "Zen's Static Barbed Wire",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2954295983",
+      "active": true,
+      "description": "铁丝网刮伤流血",
+      "tips": "",
+      "images": []
     }
   ]
 }
