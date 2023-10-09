@@ -511,6 +511,22 @@
       "description": "高级割尸体",
       "tips": "",
       "images": []
+    },
+    {
+      "name": "Building Fortifications",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2670506982",
+      "active": true,
+      "description": "系统房建家",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "BoomLay's Things",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2860643107",
+      "active": true,
+      "description": "家具制作",
+      "tips": "",
+      "images": []
     }
   ]
 }
