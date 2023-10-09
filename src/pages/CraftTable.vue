@@ -67,26 +67,37 @@ const search = () => {
     res.value = craftMap.table;
     return;
   }
-  const item = findItem(craftMap.items, str!);
-  if (!item) {
+  const idGroup = findIdGroup(craftMap.items, str);
+  if (!idGroup.length) {
     currentInstance.$message.normal("未找到该物品");
     return;
   }
+  console.log(idGroup);
   currentInstance.$message.normal("查询成功");
-  const id = item.id;
   res.value = craftMap.table.filter((item) => {
-    if (item.input.find((i) => i.id == id)) return true;
-    if (item.output.find((i) => i.id == id)) return true;
+    if (item.input.find((i) => idGroup.includes(i.id))) return true;
+    if (item.output.find((i) => idGroup.includes(i.id))) return true;
     return false;
   });
 };
 const currentInstance =
   getCurrentInstance()!.appContext.config.globalProperties;
-const findItem = (arr: any, str: string) => {
-  return arr.find((item: any) => item.name == str);
-};
+
+// const findItem = (arr: any, str: string) => {
+//   return arr.find((item: any) => item.name == str);
+// };
 const findItemById = (arr: any, id: number) => {
   return arr.find((item: any) => item.id == id);
+};
+const findIdGroup = (arr: any, keyword: string) => {
+  const regex = new RegExp(keyword);
+  return arr
+    .map((item: any) => {
+      if (regex.test(item.name)) {
+        return item.id;
+      }
+    })
+    .filter((i: any) => i);
 };
 const res: Ref<Array<any>> = ref(craftMap.table);
 const clearSearch = () => {
