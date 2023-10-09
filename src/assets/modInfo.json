@@ -225,14 +225,6 @@
       "images": []
     },
     {
-      "name": "Vanilla++ Tanning & Coloring",
-      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2503521333",
-      "active": true,
-      "description": "加入了更多的皮革物品",
-      "tips": "",
-      "images": []
-    },
-    {
       "name": "Immersive Placing",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2521460498",
       "active": true,
@@ -493,6 +485,46 @@
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2954295983",
       "active": true,
       "description": "铁丝网刮伤流血",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "CRAFTING FOOD English Version",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2875911072",
+      "active": true,
+      "description": "食物制作",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "Mental Illness Overhaul",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2873208165",
+      "active": true,
+      "description": "精神疾病大修",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "Drunk",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2842789742",
+      "active": true,
+      "description": "醉酒",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "sVisual",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2469448088",
+      "active": true,
+      "description": "加入了一些视觉效果",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "Cannibal Cuisine",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2360478954",
+      "active": true,
+      "description": "高级割尸体",
       "tips": "",
       "images": []
     }
