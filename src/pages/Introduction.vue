@@ -23,4 +23,11 @@ const getIntroduce = async () => {
 };
 getIntroduce().then((res) => (mdText.value = res));
 </script>
-<style scoped></style>
+<style scoped>
+.md-editor {
+  --md-color: none;
+}
+:deep(h3) {
+  margin: 0.8em 0.8em !important;
+}
+</style>
