@@ -30,8 +30,20 @@
               </svg>
             </label>
           </div>
-          <div class="hidden md:block navbar-center">
-            <a class="btn btn-ghost normal-case text-xl">Dayz漫漫长夜</a>
+          <div
+            class="flex navbar-center md:gap-4 gap-2 btn btn-ghost font-sans"
+            @click="message"
+          >
+            <img
+              class="md:w-10 w-6 h-6 md:h-10 md:rounded-xl rounded"
+              src="@/assets/main-theme.png"
+              alt=""
+              srcset=""
+            />
+            <div class="text-lg md:text-2xl">漫漫长夜 残酷生存</div>
+            <!-- <a class="btn btn-ghost normal-case text-xl" @click="message"
+              >Dayz漫漫长夜</a
+            > -->
           </div>
           <div class="navbar-end">
             <div class="dropdown dropdown-hover dropdown-bottom mx-2">
@@ -242,7 +254,9 @@
       </div>
       <div class="drawer-side z-10">
         <label for="my-drawer" class="drawer-overlay z-10"></label>
-        <ul class="menu p-0 w-56 sm:w-80 h-full bg-base-100 text-base-content z-20">
+        <ul
+          class="menu p-0 w-56 sm:w-80 h-full bg-base-100 text-base-content z-20"
+        >
           <!-- Sidebar content here -->
           <div class="h-16"></div>
           <li
@@ -262,7 +276,7 @@
 
 <script setup lang="ts">
 import { themeChange } from "theme-change";
-import { ref, onMounted } from "vue";
+import { ref, onMounted, getCurrentInstance } from "vue";
 import { useRouter, RouteLocationRaw } from "vue-router";
 onMounted(() => {
   themeChange(false);
@@ -270,6 +284,12 @@ onMounted(() => {
 const router = useRouter();
 const openPage = (url: string) => {
   window.open(url, "_blank");
+};
+const currentInstance =
+  getCurrentInstance()!.appContext.config.globalProperties;
+
+const message = () => {
+  currentInstance.$message.normal("幸存者你好~");
 };
 const routerTo = (path: RouteLocationRaw) => {
   router.push(path);
@@ -287,6 +307,18 @@ const toolList = ref([
     name: "合成表",
     path: "/crafttable",
   },
+  {
+    name: "建家指南",
+    path: "/buildhourse",
+  },
+  {
+    name: "家具指南",
+    path: "/furniture",
+  }
 ]);
 </script>
-<style scoped></style>
+<style scoped>
+.md-editor {
+  --md-color: none;
+}
+</style>

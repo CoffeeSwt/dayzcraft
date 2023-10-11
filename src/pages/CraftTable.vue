@@ -83,9 +83,6 @@ const search = () => {
 const currentInstance =
   getCurrentInstance()!.appContext.config.globalProperties;
 
-// const findItem = (arr: any, str: string) => {
-//   return arr.find((item: any) => item.name == str);
-// };
 const findItemById = (arr: any, id: number) => {
   return arr.find((item: any) => item.id == id);
 };

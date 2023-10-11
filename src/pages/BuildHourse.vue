@@ -6,6 +6,10 @@
         <MdPreview :modelValue="mdText" class="bg-base-200 rounded-xl">
         </MdPreview>
       </main>
+      <footer class="mt-4">
+        <img src="@/assets/pic2.jpg" alt="" />
+        <img src="@/assets/pic1.png" alt="" />
+      </footer>
     </div>
   </div>
 </template>
@@ -17,10 +21,14 @@ import { ref } from "vue";
 
 const mdText = ref("");
 const getIntroduce = async () => {
-  const response = await fetch(`/introduce.md`);
+  const response = await fetch(`/tutorial/buildhourse.md`);
   const text = await response.text();
   return text;
 };
 getIntroduce().then((res) => (mdText.value = res));
 </script>
-<style scoped></style>
+<style scoped>
+.md-editor {
+  --md-color: none;
+}
+</style>

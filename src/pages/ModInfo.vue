@@ -60,6 +60,7 @@ onMounted(() => {
 :deep(.md-editor-preview-wrapper) {
   padding: 0;
 }
+
 .collapse {
   visibility: visible !important;
 }

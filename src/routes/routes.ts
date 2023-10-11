@@ -19,6 +19,16 @@ export const routes = [
         name: "modinfo",
         component: () => import("@/pages/ModInfo.vue"),
       },
+      {
+        path: "/buildhourse",
+        name: "buildhourse",
+        component: () => import("@/pages/BuildHourse.vue"),
+      },
+      {
+        path: "/furniture",
+        name: "furniture",
+        component: () => import("@/pages/Furniture.vue"),
+      },
     ],
   },
 ];
