@@ -481,14 +481,6 @@
       "images": []
     },
     {
-      "name": "Mental Illness Overhaul",
-      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2873208165",
-      "active": true,
-      "description": "精神疾病大修",
-      "tips": "",
-      "images": []
-    },
-    {
       "name": "Drunk",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2842789742",
       "active": true,
@@ -525,6 +517,30 @@
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2860643107",
       "active": true,
       "description": "家具制作",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "JunkYardDog",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2048694610",
+      "active": true,
+      "description": "搜刮破车的油，从车里抽油",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "RoadTripNG",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2354568600",
+      "active": true,
+      "description": "印度风格乘车,车上可以站人",
+      "tips": "",
+      "images": []
+    },
+    {
+      "name": "CJ187-RandomFuelpumps",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2868862030",
+      "active": true,
+      "description": "移除原版加油站油泵加油",
       "tips": "",
       "images": []
     }
